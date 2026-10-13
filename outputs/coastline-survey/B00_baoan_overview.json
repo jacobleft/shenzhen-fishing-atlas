@@ -1,0 +1,29 @@
+{
+  "id": "B00",
+  "name": "baoan_overview",
+  "file": "B00_baoan_overview.jpg",
+  "center_wgs84": [
+    113.767,
+    22.713
+  ],
+  "ground_width_km": 7,
+  "ground_height_km": 9,
+  "extent": {
+    "xmin": 12660690.267570877,
+    "ymin": 2592468.1493710685,
+    "xmax": 12668278.750585826,
+    "ymax": 2602226.9385282923,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1500,
+  "height": 1929,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12660690.26757088%2C2592469.233440072%2C12668278.750585828%2C2602225.854459289&bboxSR=3857&imageSR=3857&size=1500%2C1929&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "01"
+}

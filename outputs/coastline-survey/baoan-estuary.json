@@ -1,0 +1,2408 @@
+{
+  "title": "01 宝安河口沿岸：河口、海堤与工程水道踏勘",
+  "assessed_on": "2026-10-10",
+  "scope": "以茅洲河口深圳侧至海洋新城、会展片区与福海北部岸线为范围，逐段阅读22幅卫星影像，并结合钓友帖子、视频与现场评论，分析鱼情、玩法、实际进出和人流。",
+  "summary": "宝安这一带同时有河口支汊、块石护岸、闸口、工程海堤和作业岸线。钓友内容提示罗非、俗称“趴地虎”的小鱼、潮汐走水及入口差异；可精确对应七处参考点的实钓证据仍不足。先比较河口和可接近护岸，工程外海堤与码头保留为待核岸段。",
+  "claims": [
+    {
+      "id": "permission",
+      "title": "整片禁钓或整片可钓，都缺少依据",
+      "fact": "2024年洋涌河答复说明管理方劝离钓鱼人员；2026年交界水域执法记录提到沿岸休闲垂钓群众。两者反映不同范围和时点的管理事实。",
+      "meaning": "七处均是结构调查参考点，尚无已核实的具体公众开放钓位。先问清岸段、入口、管理方和允许的钓法；公园步道、设施桥面及工程堤顶分别核对。",
+      "limit": "没有找到把本报告七个参考点逐一划入开放区或禁钓区的现行公告。2026年的普法记录也不是通行或垂钓许可证。",
+      "sources": [
+        "ba-river",
+        "ba-joint",
+        "ba-law"
+      ]
+    },
+    {
+      "id": "gates",
+      "title": "闸口值得看流水，设施范围先确认",
+      "fact": "2025年公告列有西海堤大空港段，以及洋涌河、沙井河口、潭头和福海河相关水闸。海堤与水闸有法定工程管理范围。",
+      "meaning": "水闸附近的流速不单由海潮控制，还受启闭、上游来水及调度影响。观察选在允许停留的岸上，不能把闸桥、操作平台或高速桥边作为默认落脚点。",
+      "limit": "本报告B02按可见形态称为闸泵设施；尚未以测绘资料核准正式名称或具体管理线。每侧30米海堤管理范围不是一条统一的禁钓线。",
+      "sources": [
+        "ba-dike",
+        "ba-law"
+      ]
+    },
+    {
+      "id": "water",
+      "title": "河道改善不等于河口海水或渔获合格",
+      "fact": "2025年公报分别报告茅洲河共和村地表水断面达到Ⅲ类，以及西部近岸海域9个国控点劣于海水第四类。",
+      "meaning": "本区的水色、漂浮物、异味和降雨径流应纳入踏勘记录。没有本点水样或鱼体检测，报告不据区域水质推定渔获可以食用。",
+      "limit": "地表水与海水标准不同；共和村不是本区每个河口点。公报是2025年监测背景，并非2026年10月现场检测。",
+      "sources": [
+        "ba-water"
+      ]
+    },
+    {
+      "id": "fish",
+      "title": "先按河口鱼类环境选结构",
+      "fact": "2024年发表的珠江口研究基于2018—2023年六次底拖网调查，记录鲻类、梅童鱼和虾虎鱼等，并分析盐度、水温、水深与群落的关联。",
+      "meaning": "七点先比较淡咸水交换、泥沙边缘、浸水护岸和可达水层。鲻类、虾虎鱼是区域候选；梅童鱼等可作泥沙底背景。石狗公、石斑和黑鲷需各点的浸水硬底及渔获证据，不能从东部岩岸名单直接搬过来。",
+      "limit": "网捕记录不是岸钓咬口数据；不能将论文的调查水深或盐度套在B01—B07。没有确认某月份、某潮段必有鱼口。",
+      "sources": [
+        "ba-fish"
+      ]
+    },
+    {
+      "id": "park",
+      "title": "海上田园经营钓场与园外岸线分开查",
+      "fact": "2023年国资公告有路亚主题文化公园招租资料；2025年公示涉及景区北侧三基鱼塘的红树林修复。",
+      "meaning": "若目标是稳定进入并练习路亚，经营钓场可另行查询；先核对是否营业、钓种、收费和开放水面。园内允许垂钓不能推定景区围塘、修复区或外海堤都可钓。",
+      "limit": "没有核实2026年经营钓场的营业信息。卫星可见的围塘和绿化不足以划定22.50公顷项目的精确边界。",
+      "sources": [
+        "ba-lure",
+        "ba-wetland"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ba-river",
+      "title": "深圳市水务局：洋涌河垂钓管理答复",
+      "date": "2024-04-16",
+      "url": "https://www.sz.gov.cn/hdjlpt/detail?pid=2877400&via=pc",
+      "supports": "该次洋涌河咨询中茅洲河中心说明采取劝离措施。适用地点与日期有限；不能直接推广为2026年整个河口禁钓。",
+      "checked_on": "2026-10-10"
+    },
+    {
+      "id": "ba-joint",
+      "title": "深莞多部门开展茅洲河交界水域联合执法",
+      "date": "2026-06-18",
+      "url": "https://nyncj.dg.gov.cn/zixun/snkd/content/post_4551334.html",
+      "supports": "说明交界水域联合巡查和向沿岸休闲垂钓群众宣讲安全知识；不列出开放钓位，也不授予工程岸线通行权。",
+      "checked_on": "2026-10-10"
+    },
+    {
+      "id": "ba-law",
+      "title": "深圳市茅洲河流域协同保护规定",
+      "date": "2025-10-23公布；2026-01-01施行",
+      "url": "https://swj.sz.gov.cn/xxgk/zfxxgkml/zcfg/content/post_12454306.html",
+      "supports": "确立深莞协同治理、水闸调度和联合执法机制；正文没有划定公众垂钓段。",
+      "checked_on": "2026-10-10"
+    },
+    {
+      "id": "ba-dike",
+      "title": "深圳市海堤和市管大中型水闸管理范围公告",
+      "date": "2025-08-18发布",
+      "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_12334568.html",
+      "supports": "包含西海堤大空港段及多座宝安水闸。管理范围不是公众步行许可或垂钓许可；禁止的捕鱼方式不能扩大解释为一律禁止持竿。",
+      "checked_on": "2026-10-10"
+    },
+    {
+      "id": "ba-wetland",
+      "title": "海上田园北区红树林湿地生态修复方案公示",
+      "date": "2025-05-12",
+      "url": "https://pnr.sz.gov.cn/xxgk/gggs/content/post_12171329.html",
+      "supports": "景区北侧三基鱼塘有约22.50公顷修复项目，包含红树林、水系和安全设施。公示不能证明工程已完工，也不能证明外海堤对公众开放。",
+      "checked_on": "2026-10-10"
+    },
+    {
+      "id": "ba-lure",
+      "title": "海上田园路亚主题文化公园公开招租",
+      "date": "2023-03-13",
+      "url": "https://gzw.sz.gov.cn/ztzl/gzgqztzl/gyqyxxgk/gycqjyqk/gpgg/content/post_10476457.html",
+      "supports": "证明景区有路亚项目用地招租；不证明2026年营业、票价、鱼种或园外海岸可钓。",
+      "checked_on": "2026-10-10"
+    },
+    {
+      "id": "ba-transit",
+      "title": "深圳市交通运输局地铁线路信息",
+      "date": "2024-01-04",
+      "url": "https://jtys.sz.gov.cn/zwgk/ztzl/ggqsydw/jt/dt/ywxx/dtxlxx/content/post_11086812.html",
+      "supports": "12号线海上田园东、海上田园南、国展和国展北，20号线国展片区可作区域接近参照；不提供已实走到岸路线。",
+      "checked_on": "2026-10-10"
+    },
+    {
+      "id": "ba-fish",
+      "title": "珠江口2018—2023年鱼类群落与环境因子研究",
+      "date": "2024年；南方水产科学20(6):62—73",
+      "url": "https://doi.org/10.12131/20240139",
+      "supports": "底拖网调查记录鲻类、梅童鱼、虾虎鱼等，群落与盐度、水温、水深等关联；调查站位、渔具和年代均不能推出宝安岸边当前渔获。",
+      "checked_on": "2026-10-10"
+    },
+    {
+      "id": "ba-water",
+      "title": "2025年深圳市生态环境状况公报",
+      "date": "2026-06-29",
+      "url": "https://www.sz.gov.cn/zfgb/2026/gb1418/content/post_12873338.html",
+      "supports": "茅洲河共和村断面为地表水Ⅲ类；西部近岸海域9个国控点劣于海水第四类。两种水质分类、位置与年均资料不能互换，也不构成某个钓位或鱼体的检测结果。",
+      "checked_on": "2026-10-10"
+    },
+    {
+      "id": "ba-social-mouth",
+      "title": "茅洲河口探钓视频｜哔哩哔哩",
+      "date": "2025-11-04",
+      "url": "https://www.bilibili.com/video/BV1Pp1yBLE9v/",
+      "supports": "人工块石护岸是实际岸钓场景；B01附近调查应同时寻找河岸护砌与支汊交汇，不能只找天然礁石。 地点仅到河口片区。画面可见有人钓鱼，当前公众入口和使用条件仍未确认。",
+      "checked_on": "2026-10-10",
+      "kind": "social"
+    },
+    {
+      "id": "ba-social-shasi",
+      "title": "沙四村茅洲河钓友点评｜钓鱼之家／钓鱼人",
+      "date": "日期未显示，评论标为“很久以前”",
+      "url": "https://m.diaoyu.com/diaochang/shenzhen/237711.html",
+      "supports": "沿河段可把罗非作为社交实钓线索，把昼夜与潮汐作为待比较变量；这比“河口只钓海鱼”更贴近当地玩法。 未显示原始日期；“免费”是平台条目标签，不是当天通行或垂钓许可。",
+      "checked_on": "2026-10-10",
+      "kind": "social"
+    },
+    {
+      "id": "ba-social-dongbao",
+      "title": "东宝河入口与劝离反馈｜钓鱼之家／钓鱼人",
+      "date": "日期未显示，评论均标为“很久以前”",
+      "url": "https://m.diaoyu.com/diaochang/shenzhen/217504.html",
+      "supports": "实际入口找不到和现场被限制，是比“交通便利”标签更有用的行程线索。先核对桥名、哪一岸及步行入口，再安排携竿行程。 未定日期，与2023年视频的“没人赶”表述不能排出先后；不能选其中一条代表全河现状。",
+      "checked_on": "2026-10-10",
+      "kind": "social"
+    },
+    {
+      "id": "ba-social-goby",
+      "title": "茅洲河“趴地虎”视频｜哔哩哔哩",
+      "date": "2026-07-19",
+      "url": "https://www.bilibili.com/video/BV1wUKN6qEwY/",
+      "supports": "2026年的个人内容仍围绕小型底栖鱼，茅洲河踏勘不应只设定大海鲈、黑鲷等目标。 标题级鱼情线索；不得写成B01或B02已捕获虾虎鱼。",
+      "checked_on": "2026-10-10",
+      "kind": "social"
+    },
+    {
+      "id": "ba-social-shajing",
+      "title": "沙井茅洲河“没人赶”视频｜哔哩哔哩",
+      "date": "2023-12-01",
+      "url": "https://www.bilibili.com/video/BV1rw41187Ce/",
+      "supports": "与东宝河限制反馈并列，说明网上体验随岸段和时间变化，值得实地核入口。 2023年的个人经验不能确认2026年全河开放；不能与无日期评论强行做时间趋势。",
+      "checked_on": "2026-10-10",
+      "kind": "social"
+    },
+    {
+      "id": "ba-social-fuyong",
+      "title": "福永海鲜市场后河道实钓点评｜钓鱼之家／钓鱼人",
+      "date": "确切日期未显示；页面相对日期存在缓存差异",
+      "url": "https://m.diaoyu.com/diaochang/shenzhen/219545.html",
+      "supports": "列为下一轮地图调查的近邻线索，比较海鲈、花身鱼与小型底栖鱼；保留空军反馈，避免只采信上鱼帖。 这是福永近邻河道的经验，不是B06作业码头或B07长堤的渔获；不创建未经影像和入口核查的新推荐钓位。",
+      "checked_on": "2026-10-10",
+      "kind": "social"
+    },
+    {
+      "id": "ba-social-ling",
+      "title": "茅洲河土鲮实钓与作者答复｜钓鱼之家／钓鱼人",
+      "date": "2025-02-22",
+      "url": "https://m.diaoyu.com/showtopic-6198259-1-1.html",
+      "supports": "说明标题“茅洲河”覆盖上游淡水玩法。土鲮好口与沙底经验不能复制到海洋新城外海堤。 帖子内容较完整，但地理上不属于七处河口参考点；不能提升B01—B07鱼情置信度。",
+      "checked_on": "2026-10-10",
+      "kind": "social"
+    },
+    {
+      "id": "ba-social-tianyuan",
+      "title": "海上田园钓鱼露营视频与评论｜抖音",
+      "date": "2022-11-28",
+      "url": "https://www.douyin.com/video/7171030132004588808",
+      "supports": "作为“同名地点容易混淆”样本；海上田园鱼塘、附近河道与外海直线堤必须分开。 智能文稿可能误识别；不将空军、露营或鱼种映射到B03/B04/B05。",
+      "checked_on": "2026-10-10",
+      "kind": "social"
+    }
+  ],
+  "targets": [
+    {
+      "parent": "01",
+      "transport": "city",
+      "refined_observation": "",
+      "fish_codes": [
+        "M",
+        "A"
+      ],
+      "confidence": "可见岸形与陆侧使用来自保存影像；水下结构、正式设施名称、公众路线、当前垂钓许可与鱼是否在场未实测。",
+      "species": "鲻类、虾虎鱼可作珠江口区域候选；梅童鱼等只作泥沙底背景，未获得本点渔获证据。",
+      "transit": "12号线海上田园东、海上田园南，或国展片区站点可作接近本区的参照。最近站点、公交接驳和末班按实际入口查；尚未确认地铁出口到本点的连续步行路线。",
+      "drive": "先导航至已确认对公众开放的街区入口或正规停车场，再核对步行通路。未确认本点停车位；高速路肩、生产道路和堤顶不作为默认停车地点。",
+      "crowds": "2025年河口探钓视频片段可见两位钓者；尚未定位到B01。沙四沿河简介称白天钓者多，不能推为B01人流，也不把河口列为冷门。窄堤路实际拥挤与钓压待查。",
+      "when": "白天从合法岸上查看支汊在较低、较高水位是否连通，并留意上游来水。只有获准使用独立站位后，才比较交换开始与减弱时段；未建立本点最佳季节或潮段。",
+      "next_check": "对照河口视频里的块石护岸、河面和对岸建筑，先确认是否在深圳侧及与B01的关系；同时查窄堤路公众入口、支汊交换与可站立位置。",
+      "sources": [
+        "ba-dike",
+        "ba-transit",
+        "ba-fish",
+        "ba-water",
+        "ba-river",
+        "ba-joint",
+        "ba-wetland",
+        "ba-social-mouth",
+        "ba-social-shasi",
+        "ba-social-dongbao"
+      ],
+      "id": "B01",
+      "label": "茅洲河口深圳侧支汊与湿地外缘",
+      "type": "mixed",
+      "status": "hold",
+      "headline": "河口与支汊交汇清楚，湿地边缘的公众落脚点未核实",
+      "observed": "大河口、带植被的窄岸缘、支汊和一条穿越湿地的窄堤路可见；南侧有工程护岸，高速桥在东侧。",
+      "structure": "优先辨认主河与支汊交换口、浸水岸缘和工程护岸外侧；植被带及泥滩不能当作可踩的岩台。",
+      "habitat": "淡咸水交换与泥沙边缘可能提供河口鱼类利用的条件；支汊的实际连通、盐度和溶解氧未知。这里不具备已确认的天然岩礁依据。",
+      "restrictions": "深圳侧参考点位于河口南岸。湿地、工程堤路与河道的管理需逐项核对；2024年劝离答复与2026年执法记录均不能直接确认本点可钓。不得用河对岸公园的开放信息替代本岸条件。",
+      "final_walk": "画面有窄堤路，但与公众道路是否连通、是否有门禁、是否允许停留未知。高速桥面或匝道不是步行入口。",
+      "permission_status": "河口具体钓位许可未核实；保留管理劝离与2026年执法两类证据",
+      "social_evidence": "河口片区相关，未精确匹配。2025年河口视频可见护岸坐钓；沙四、东宝河点评提供沿河玩法与进出问题。没有一条确认B01窄堤路或B02具体闸泵设施。",
+      "type_label": "混合岸线",
+      "status_label": "先查边界",
+      "reference_wgs84": [
+        113.7566974,
+        22.7352705
+      ],
+      "reference_is": "500米近景中心，不是站立钓位",
+      "imagery": {
+        "context": {
+          "id": "B01",
+          "name": "baoan_shore",
+          "file": "B01_baoan_shore.jpg",
+          "center_wgs84": [
+            113.7566974,
+            22.7352705
+          ],
+          "ground_width_km": 1.6,
+          "ground_height_km": 1.6,
+          "extent": {
+            "xmin": 12662470.232501907,
+            "ymin": 2599167.9258864936,
+            "xmax": 12664205.025283106,
+            "ymax": 2600902.718667692,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662470.23250191%2C2599167.9258864946%2C12664205.025283106%2C2600902.718667693&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618008",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250110",
+              "SRC_RES": "0.31",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "WV03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/10/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87101.583632",
+              "Shape_Area": "126790813",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "fine": {
+          "id": "B01_fine",
+          "name": "baoan_shore",
+          "file": "B01_fine_baoan_shore.jpg",
+          "center_wgs84": [
+            113.7566974,
+            22.7352705
+          ],
+          "ground_width_km": 0.5,
+          "ground_height_km": 0.5,
+          "extent": {
+            "xmin": 12663066.567520445,
+            "ymin": 2599764.2609050316,
+            "xmax": 12663608.69026457,
+            "ymax": 2600306.383649156,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12663066.567520445%2C2599764.2609050316%2C12663608.69026457%2C2600306.383649156&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618008",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250110",
+              "SRC_RES": "0.31",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "WV03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/10/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87101.583632",
+              "Shape_Area": "126790813",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "micro": {
+          "id": "B01_micro",
+          "name": "baoan_shore",
+          "file": "B01_micro_baoan_shore.jpg",
+          "center_wgs84": [
+            113.75718439714689,
+            22.734709051794727
+          ],
+          "ground_width_km": 0.15,
+          "ground_height_km": 0.15,
+          "extent": {
+            "xmin": 12663310.523089202,
+            "ymin": 2599886.23885636,
+            "xmax": 12663473.15924464,
+            "ymax": 2600048.8750117975,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 540,
+          "height": 540,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12663310.523089198%2C2599886.2388563594%2C12663473.159244636%2C2600048.875011796&bboxSR=3857&imageSR=3857&size=540%2C540&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618008",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250110",
+              "SRC_RES": "0.31",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "WV03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/10/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87101.583632",
+              "Shape_Area": "126790813",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。",
+          "reference_in_fine": [
+            0.6,
+            0.625
+          ]
+        }
+      },
+      "underwater_status": "水深、浸水结构、底质及实际流水未确认",
+      "area": "baoan",
+      "area_label": "宝安西海岸",
+      "region_label": "宝安河口沿岸",
+      "outing": {
+        "assessed_on": "2026-10-13",
+        "origin": "光明、宝安、龙华、南山、福田",
+        "rod": "矶竿",
+        "tags": [
+          "check"
+        ],
+        "practice": "近程踏勘线索：比东部海岸更适合先查入口；湿地窄堤与抛石岸不等于平整、可用、低挂底练手位。",
+        "larger": "不列大鱼专程：没有精确匹配该参考点的较大个体渔获记录；结构或区域鱼种只能提出假设。",
+        "travel_burden": "按所选出发区域分别比较；目的地入口、站位与返程另核。",
+        "fish_size_evidence": "未找到精确匹配参考点的较大个体渔获记录",
+        "origins": {
+          "guangming": {
+            "burden": "西部接近；工业岸线入口先查",
+            "public": "6号线到松岗接11／12号线；福永河道与茅洲河口先分别确认入口、站点及步行通道。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-open13",
+              "trip-lines"
+            ]
+          },
+          "baoan": {
+            "burden": "按宝中／福永／沙井分别比较",
+            "public": "福永、沙井、松岗按同片区入口比较11／12号线或公交；宝安中心向北行程需另计末段。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-13"
+            ]
+          },
+          "longhua": {
+            "burden": "西部跨区接近；末段待核",
+            "public": "深圳北／红山沿6号线到松岗接11／12号线，或5号线到前海湾接11号线；按入口选择。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-4",
+              "trip-north",
+              "trip-lines"
+            ]
+          },
+          "nanshan": {
+            "burden": "西部跨区接近；11／12号线可比较",
+            "public": "11／12号线向福永、沙井、国展片区；区域站点可接近，不证明工业岸线公众可进入。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-11",
+              "trip-lines"
+            ]
+          },
+          "futian": {
+            "burden": "西部跨区行程；入口与站位先核",
+            "public": "11号线向福永／松岗，按目的片区接12号线或公交；未核岸位不安排临时下竿。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-4"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "parent": "01",
+      "transport": "city",
+      "refined_observation": "",
+      "fish_codes": [
+        "M",
+        "A"
+      ],
+      "confidence": "可见岸形与陆侧使用来自保存影像；水下结构、正式设施名称、公众路线、当前垂钓许可与鱼是否在场未实测。",
+      "species": "鲻类、虾虎鱼可作珠江口区域候选；梅童鱼等只作泥沙底背景，未获得本点渔获证据。",
+      "transit": "12号线海上田园东、海上田园南，或国展片区站点可作接近本区的参照。最近站点、公交接驳和末班按实际入口查；尚未确认地铁出口到本点的连续步行路线。",
+      "drive": "先导航至已确认对公众开放的街区入口或正规停车场，再核对步行通路。未确认本点停车位；高速路肩、生产道路和堤顶不作为默认停车地点。",
+      "crowds": "设施和高速交通可能使周边人流较多，但闸区常有独立管理；画面车辆不能证明钓友常来。没有本点的垂钓频率记录。",
+      "when": "观察先问清启闭调度和公众停留边界；从远离闸孔的合法岸边比较开闭时的实际流向。泄洪、强降雨或管理封闭时不安排闸边试钓。",
+      "next_check": "先确认正式闸名和哪一岸，再查公众可用边缘、真实启闭与排水安排。社交内容里的“河口可钓”还没有匹配到此闸泵设施。",
+      "sources": [
+        "ba-dike",
+        "ba-transit",
+        "ba-fish",
+        "ba-water",
+        "ba-law",
+        "ba-river",
+        "ba-joint",
+        "ba-social-mouth",
+        "ba-social-shasi",
+        "ba-social-dongbao"
+      ],
+      "id": "B02",
+      "label": "茅洲河口南侧闸泵设施外缘",
+      "type": "wall",
+      "status": "hold",
+      "headline": "闸孔、护岸和桥影可辨，先查工程设施范围",
+      "observed": "多孔水闸、附属泵房状建筑、两侧水池和沿江高速桥可见；外围有工程路与护岸。正式设施名称未核准。",
+      "structure": "比较闸外允许观察的岸段与远离闸孔的直线护岸；把闸孔、导流墩、护岸转角分开辨认。",
+      "habitat": "闸口可能产生间歇交换与局部流水，但关闸时不一定有流；工程水池与外海的连通方式未知。水色深浅不能推定水深或有鱼。",
+      "restrictions": "水利工程管理与启闭调度是首要约束。操作平台、闸桥、泵房及高速桥边不视为公众钓位；本点的管理边界和垂钓许可未查明。",
+      "final_walk": "卫星只显示工程道路，未确认公共步道接到可停留护岸。先找合法入口，无法确认就不安排下岸。",
+      "permission_status": "工程设施范围与垂钓许可未核实",
+      "social_evidence": "河口片区相关，未精确匹配。2025年河口视频可见护岸坐钓；沙四、东宝河点评提供沿河玩法与进出问题。没有一条确认B01窄堤路或B02具体闸泵设施。",
+      "type_label": "海堤与护岸",
+      "status_label": "先查边界",
+      "reference_wgs84": [
+        113.76293005793819,
+        22.736383792805654
+      ],
+      "reference_is": "500米近景中心，不是站立钓位",
+      "imagery": {
+        "context": {
+          "id": "B02",
+          "name": "baoan_shore",
+          "file": "B02_baoan_shore.jpg",
+          "center_wgs84": [
+            113.7644885,
+            22.7397615
+          ],
+          "ground_width_km": 1.6,
+          "ground_height_km": 1.6,
+          "extent": {
+            "xmin": 12663337.505293466,
+            "ymin": 2599709.9594674357,
+            "xmax": 12665072.35506099,
+            "ymax": 2601444.8092349614,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12663337.505293466%2C2599709.9594674367%2C12665072.35506099%2C2601444.8092349623&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618035",
+              "Shape": "Polygon",
+              "SRC_DATE": "20251105",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "11/5/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "96716.019258",
+              "Shape_Area": "287171483",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "fine": {
+          "id": "B02_fine",
+          "name": "baoan_shore",
+          "file": "B02_fine_baoan_shore.jpg",
+          "center_wgs84": [
+            113.76293005793819,
+            22.736383792805654
+          ],
+          "ground_width_km": 0.5,
+          "ground_height_km": 0.5,
+          "extent": {
+            "xmin": 12663760.381621346,
+            "ymin": 2599898.6310766987,
+            "xmax": 12664302.508779608,
+            "ymax": 2600440.7582349605,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12663760.381621346%2C2599898.631076699%2C12664302.508779608%2C2600440.75823496&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618035",
+              "Shape": "Polygon",
+              "SRC_DATE": "20251105",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "11/5/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "96716.019258",
+              "Shape_Area": "287171483",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应本帧中心；导出采样不等于源影像分辨率。"
+        },
+        "micro": {
+          "id": "B02_micro",
+          "name": "baoan_shore",
+          "file": "B02_micro_baoan_shore.jpg",
+          "center_wgs84": [
+            113.76293005793819,
+            22.736383792805654
+          ],
+          "ground_width_km": 0.15,
+          "ground_height_km": 0.15,
+          "extent": {
+            "xmin": 12663950.126126735,
+            "ymin": 2600088.37558209,
+            "xmax": 12664112.764274212,
+            "ymax": 2600251.013729568,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 540,
+          "height": 540,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12663950.126126738%2C2600088.3755820906%2C12664112.764274215%2C2600251.0137295686&bboxSR=3857&imageSR=3857&size=540%2C540&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "reference_in_fine": [
+            0.5,
+            0.5
+          ],
+          "parent": "01",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618035",
+              "Shape": "Polygon",
+              "SRC_DATE": "20251105",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "11/5/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "96716.019258",
+              "Shape_Area": "287171483",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应本帧中心；导出采样不等于源影像分辨率。"
+        }
+      },
+      "underwater_status": "水深、浸水结构、底质及实际流水未确认",
+      "area": "baoan",
+      "area_label": "宝安西海岸",
+      "region_label": "宝安河口沿岸",
+      "outing": {
+        "assessed_on": "2026-10-13",
+        "origin": "光明、宝安、龙华、南山、福田",
+        "rod": "矶竿",
+        "tags": [
+          "check"
+        ],
+        "practice": "不列练手：闸泵及设施桥面的公众使用未确认，启闭流水也不适合初次练习。",
+        "larger": "不列大鱼专程：没有精确匹配该参考点的较大个体渔获记录；结构或区域鱼种只能提出假设。",
+        "travel_burden": "按所选出发区域分别比较；目的地入口、站位与返程另核。",
+        "fish_size_evidence": "未找到精确匹配参考点的较大个体渔获记录",
+        "origins": {
+          "guangming": {
+            "burden": "西部接近；工业岸线入口先查",
+            "public": "6号线到松岗接11／12号线；福永河道与茅洲河口先分别确认入口、站点及步行通道。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-open13",
+              "trip-lines"
+            ]
+          },
+          "baoan": {
+            "burden": "按宝中／福永／沙井分别比较",
+            "public": "福永、沙井、松岗按同片区入口比较11／12号线或公交；宝安中心向北行程需另计末段。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-13"
+            ]
+          },
+          "longhua": {
+            "burden": "西部跨区接近；末段待核",
+            "public": "深圳北／红山沿6号线到松岗接11／12号线，或5号线到前海湾接11号线；按入口选择。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-4",
+              "trip-north",
+              "trip-lines"
+            ]
+          },
+          "nanshan": {
+            "burden": "西部跨区接近；11／12号线可比较",
+            "public": "11／12号线向福永、沙井、国展片区；区域站点可接近，不证明工业岸线公众可进入。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-11",
+              "trip-lines"
+            ]
+          },
+          "futian": {
+            "burden": "西部跨区行程；入口与站位先核",
+            "public": "11号线向福永／松岗，按目的片区接12号线或公交；未核岸位不安排临时下竿。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-4"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "parent": "01",
+      "transport": "unverified",
+      "refined_observation": "",
+      "fish_codes": [
+        "M",
+        "A"
+      ],
+      "confidence": "可见岸形与陆侧使用来自保存影像；水下结构、正式设施名称、公众路线、当前垂钓许可与鱼是否在场未实测。",
+      "species": "鲻类、虾虎鱼可作珠江口区域候选；梅童鱼等只作泥沙底背景，未获得本点渔获证据。",
+      "transit": "12号线海上田园东、海上田园南，或国展片区站点可作接近本区的参照。最近站点、公交接驳和末班按实际入口查；尚未确认地铁出口到本点的连续步行路线。",
+      "drive": "先导航至已确认对公众开放的街区入口或正规停车场，再核对步行通路。未确认本点停车位；高速路肩、生产道路和堤顶不作为默认停车地点。",
+      "crowds": "陆侧工程用地意味着公众接近受入口条件影响。未核实钓友数量；潜在人少不能用作选冷门钓点的理由。",
+      "when": "先核对工程入口及维护状态；若允许岸上踏勘，在白天较低水位看堤脚，再比较较高水位可达水层。外海西向岸还要查当日风浪。",
+      "next_check": "用近景和坐标向管理方核对正式地点、公众入口、允许停留范围和垂钓规定；许可明确后，记录底质、水深、流水、渔获及钓法，才决定是否安排试钓。",
+      "sources": [
+        "ba-dike",
+        "ba-transit",
+        "ba-fish",
+        "ba-water",
+        "ba-social-tianyuan"
+      ],
+      "id": "B03",
+      "label": "海洋新城北部外海直线海堤",
+      "type": "wall",
+      "status": "defer",
+      "headline": "外海堤形清楚，陆侧工程场地使岸钓行程后置",
+      "observed": "外海直线硬质海堤、窄堤顶和陆侧填土施工场地可见；没有从影像核定公众步道。",
+      "structure": "沿海堤比较直线段、转角与浸水堤脚。小型护面纹理不能确认水下是抛石、块体还是淤泥。",
+      "habitat": "向外海一侧交换空间较大，但近岸可达深度、堤脚附着物及底质未知；若长期浸水硬底得到确认，才有理由继续调查鲷类或其他利用硬底的鱼。",
+      "restrictions": "陆侧有工程使用痕迹。施工、产权、堤防维护与公众开放状态均需当前确认；海堤管理公告没有给本点公众通行许可。",
+      "final_walk": "堤顶有线性路面，不等于从市政路可连续进入。工程道路入口和退路未确认，普通公交或自驾行程先后置。",
+      "permission_status": "工程岸线公众入口及垂钓许可未核实",
+      "social_evidence": "没有可定位的实钓证据。“海上田园”视频水面未定位，不能对应外海直线堤、通道桥或弯折护岸。鱼塘和河道同名线索不计入这些工程岸段的渔获。",
+      "type_label": "海堤与护岸",
+      "status_label": "行程后置",
+      "reference_wgs84": [
+        113.7491400839106,
+        22.72079052356213
+      ],
+      "reference_is": "500米近景中心，不是站立钓位",
+      "imagery": {
+        "context": {
+          "id": "B03",
+          "name": "baoan_shore",
+          "file": "B03_baoan_shore.jpg",
+          "center_wgs84": [
+            113.7508541,
+            22.7182034
+          ],
+          "ground_width_km": 1.6,
+          "ground_height_km": 1.6,
+          "extent": {
+            "xmin": 12661819.867537955,
+            "ymin": 2597108.203665491,
+            "xmax": 12663554.44388595,
+            "ymax": 2598842.7800134877,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12661819.867537959%2C2597108.203665492%2C12663554.443885954%2C2598842.7800134886&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618007",
+              "Shape": "Polygon",
+              "SRC_DATE": "20241230",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "12/30/2024",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "79082.767676",
+              "Shape_Area": "41763454",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "fine": {
+          "id": "B03_fine",
+          "name": "baoan_shore",
+          "file": "B03_fine_baoan_shore.jpg",
+          "center_wgs84": [
+            113.7491400839106,
+            22.72079052356213
+          ],
+          "ground_width_km": 0.5,
+          "ground_height_km": 0.5,
+          "extent": {
+            "xmin": 12662225.319635117,
+            "ymin": 2598016.682903575,
+            "xmax": 12662767.384992225,
+            "ymax": 2598558.7482606824,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662225.319635117%2C2598016.682903575%2C12662767.384992225%2C2598558.7482606824&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618008",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250110",
+              "SRC_RES": "0.31",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "WV03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/10/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87101.583632",
+              "Shape_Area": "126790813",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "micro": {
+          "id": "B03_micro",
+          "name": "baoan_shore",
+          "file": "B03_micro_baoan_shore.jpg",
+          "center_wgs84": [
+            113.74991919686303,
+            22.72079052356213
+          ],
+          "ground_width_km": 0.15,
+          "ground_height_km": 0.15,
+          "extent": {
+            "xmin": 12662501.772967238,
+            "ymin": 2598206.4057785617,
+            "xmax": 12662664.39257437,
+            "ymax": 2598369.0253856936,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 540,
+          "height": 540,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662501.772967242%2C2598206.4057785627%2C12662664.392574374%2C2598369.0253856946&bboxSR=3857&imageSR=3857&size=540%2C540&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "reference_in_fine": [
+            0.66,
+            0.5
+          ],
+          "parent": "01",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618007",
+              "Shape": "Polygon",
+              "SRC_DATE": "20241230",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "12/30/2024",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "79082.767676",
+              "Shape_Area": "41763454",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应本帧中心；导出采样不等于源影像分辨率。"
+        }
+      },
+      "underwater_status": "水深、浸水结构、底质及实际流水未确认",
+      "area": "baoan",
+      "area_label": "宝安西海岸",
+      "region_label": "宝安河口沿岸",
+      "outing": {
+        "assessed_on": "2026-10-13",
+        "origin": "光明、宝安、龙华、南山、福田",
+        "rod": "矶竿",
+        "tags": [
+          "check"
+        ],
+        "practice": "行程后置：工程或生产岸线的公众入口和可站立位置未确认。",
+        "larger": "行程后置：长堤、码头或工业栈桥外形不能证明水深或大鱼；没有该点鱼体记录。",
+        "travel_burden": "按所选出发区域分别比较；目的地入口、站位与返程另核。",
+        "fish_size_evidence": "未找到精确匹配参考点的较大个体渔获记录",
+        "origins": {
+          "guangming": {
+            "burden": "西部接近；工业岸线入口先查",
+            "public": "6号线到松岗接11／12号线；福永河道与茅洲河口先分别确认入口、站点及步行通道。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-open13",
+              "trip-lines"
+            ]
+          },
+          "baoan": {
+            "burden": "按宝中／福永／沙井分别比较",
+            "public": "福永、沙井、松岗按同片区入口比较11／12号线或公交；宝安中心向北行程需另计末段。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-13"
+            ]
+          },
+          "longhua": {
+            "burden": "西部跨区接近；末段待核",
+            "public": "深圳北／红山沿6号线到松岗接11／12号线，或5号线到前海湾接11号线；按入口选择。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-4",
+              "trip-north",
+              "trip-lines"
+            ]
+          },
+          "nanshan": {
+            "burden": "西部跨区接近；11／12号线可比较",
+            "public": "11／12号线向福永、沙井、国展片区；区域站点可接近，不证明工业岸线公众可进入。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-11",
+              "trip-lines"
+            ]
+          },
+          "futian": {
+            "burden": "西部跨区行程；入口与站位先核",
+            "public": "11号线向福永／松岗，按目的片区接12号线或公交；未核岸位不安排临时下竿。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-4"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "parent": "01",
+      "transport": "city",
+      "refined_observation": "",
+      "fish_codes": [
+        "M",
+        "A"
+      ],
+      "confidence": "可见岸形与陆侧使用来自保存影像；水下结构、正式设施名称、公众路线、当前垂钓许可与鱼是否在场未实测。",
+      "species": "鲻类、虾虎鱼可作珠江口区域候选；梅童鱼等只作泥沙底背景，未获得本点渔获证据。",
+      "transit": "12号线海上田园东、海上田园南，或国展片区站点可作接近本区的参照。最近站点、公交接驳和末班按实际入口查；尚未确认地铁出口到本点的连续步行路线。",
+      "drive": "先导航至已确认对公众开放的街区入口或正规停车场，再核对步行通路。未确认本点停车位；高速路肩、生产道路和堤顶不作为默认停车地点。",
+      "crowds": "桥边可见车辆与生产场地，首先考虑通勤和作业冲突；附近会展的人气不等于桥侧有空余钓位。钓压未核实。",
+      "when": "在获准停留且不妨碍车辆的条件下白天看桥侧护岸；比较实际流动与缓流边缘。先确认上游调度，不能仅凭海潮表选择桥下时段。",
+      "next_check": "用近景和坐标向管理方核对正式地点、公众入口、允许停留范围和垂钓规定；许可明确后，记录底质、水深、流水、渔获及钓法，才决定是否安排试钓。",
+      "sources": [
+        "ba-dike",
+        "ba-transit",
+        "ba-fish",
+        "ba-water",
+        "ba-social-tianyuan"
+      ],
+      "id": "B04",
+      "label": "会展片区西侧入海通道桥与护岸",
+      "type": "wall",
+      "status": "hold",
+      "headline": "桥侧石护岸与通道可比较，生产道路使用条件待查",
+      "observed": "窄桥跨越水道，两侧石质护岸与土路可辨；桥南岸有生产场地及车辆，北岸有工程地块。",
+      "structure": "观察桥侧护岸、通道弯折与桥下阴影边缘；车辆使用的窄桥不能默认用来站立抛投。",
+      "habitat": "护岸与泥沙底交界、水道收窄可能形成环境差异；河名、闸控连通、可达水深和潮流均未核实。可先按河口底层鱼类环境调查。",
+      "restrictions": "桥面和道路有生产交通使用。桥梁维护、岸边施工、物业及河道管理权限待核；尚未找到指定垂钓段公告。",
+      "final_walk": "只确认桥与两岸道路形态，未确认步行权及独立站位。需查从国展或国展北片区进入岸边的公众路线，避免把施工通道作通路。",
+      "permission_status": "桥侧可停留岸段与垂钓许可未核实",
+      "social_evidence": "没有可定位的实钓证据。“海上田园”视频水面未定位，不能对应外海直线堤、通道桥或弯折护岸。鱼塘和河道同名线索不计入这些工程岸段的渔获。",
+      "type_label": "海堤与护岸",
+      "status_label": "先查边界",
+      "reference_wgs84": [
+        113.7557236,
+        22.7002356
+      ],
+      "reference_is": "500米近景中心，不是站立钓位",
+      "imagery": {
+        "context": {
+          "id": "B04",
+          "name": "baoan_shore",
+          "file": "B04_baoan_shore.jpg",
+          "center_wgs84": [
+            113.7557236,
+            22.7002356
+          ],
+          "ground_width_km": 1.6,
+          "ground_height_km": 1.6,
+          "extent": {
+            "xmin": 12662362.051613702,
+            "ymin": 2594940.059012671,
+            "xmax": 12664096.400331052,
+            "ymax": 2596674.4077300215,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662362.0516137%2C2594940.0590126715%2C12664096.40033105%2C2596674.407730021&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618007",
+              "Shape": "Polygon",
+              "SRC_DATE": "20241230",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "12/30/2024",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "79082.767676",
+              "Shape_Area": "41763454",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "fine": {
+          "id": "B04_fine",
+          "name": "baoan_shore",
+          "file": "B04_fine_baoan_shore.jpg",
+          "center_wgs84": [
+            113.7557236,
+            22.7002356
+          ],
+          "ground_width_km": 0.5,
+          "ground_height_km": 0.5,
+          "extent": {
+            "xmin": 12662958.233985292,
+            "ymin": 2595536.2413842604,
+            "xmax": 12663500.217959464,
+            "ymax": 2596078.225358432,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662958.23398529%2C2595536.2413842604%2C12663500.21795946%2C2596078.225358432&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618007",
+              "Shape": "Polygon",
+              "SRC_DATE": "20241230",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "12/30/2024",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "79082.767676",
+              "Shape_Area": "41763454",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "micro": {
+          "id": "B04_micro",
+          "name": "baoan_shore",
+          "file": "B04_micro_baoan_shore.jpg",
+          "center_wgs84": [
+            113.75572360000002,
+            22.700190684228417
+          ],
+          "ground_width_km": 0.15,
+          "ground_height_km": 0.15,
+          "extent": {
+            "xmin": 12663147.92840291,
+            "ymin": 2595720.515962136,
+            "xmax": 12663310.523541844,
+            "ymax": 2595883.1111010695,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 540,
+          "height": 540,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12663147.92840291%2C2595720.515962138%2C12663310.523541844%2C2595883.1111010695&bboxSR=3857&imageSR=3857&size=540%2C540&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618007",
+              "Shape": "Polygon",
+              "SRC_DATE": "20241230",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "12/30/2024",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "79082.767676",
+              "Shape_Area": "41763454",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。",
+          "reference_in_fine": [
+            0.5,
+            0.51
+          ]
+        }
+      },
+      "underwater_status": "水深、浸水结构、底质及实际流水未确认",
+      "area": "baoan",
+      "area_label": "宝安西海岸",
+      "region_label": "宝安河口沿岸",
+      "outing": {
+        "assessed_on": "2026-10-13",
+        "origin": "光明、宝安、龙华、南山、福田",
+        "rod": "矶竿",
+        "tags": [
+          "check"
+        ],
+        "practice": "近程踏勘线索：先找独立公共护岸和入口；通道桥及工程作业边缘不作默认钓位。",
+        "larger": "不列大鱼专程：没有精确匹配该参考点的较大个体渔获记录；结构或区域鱼种只能提出假设。",
+        "travel_burden": "按所选出发区域分别比较；目的地入口、站位与返程另核。",
+        "fish_size_evidence": "未找到精确匹配参考点的较大个体渔获记录",
+        "origins": {
+          "guangming": {
+            "burden": "西部接近；工业岸线入口先查",
+            "public": "6号线到松岗接11／12号线；福永河道与茅洲河口先分别确认入口、站点及步行通道。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-open13",
+              "trip-lines"
+            ]
+          },
+          "baoan": {
+            "burden": "按宝中／福永／沙井分别比较",
+            "public": "福永、沙井、松岗按同片区入口比较11／12号线或公交；宝安中心向北行程需另计末段。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-13"
+            ]
+          },
+          "longhua": {
+            "burden": "西部跨区接近；末段待核",
+            "public": "深圳北／红山沿6号线到松岗接11／12号线，或5号线到前海湾接11号线；按入口选择。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-4",
+              "trip-north",
+              "trip-lines"
+            ]
+          },
+          "nanshan": {
+            "burden": "西部跨区接近；11／12号线可比较",
+            "public": "11／12号线向福永、沙井、国展片区；区域站点可接近，不证明工业岸线公众可进入。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-11",
+              "trip-lines"
+            ]
+          },
+          "futian": {
+            "burden": "西部跨区行程；入口与站位先核",
+            "public": "11号线向福永／松岗，按目的片区接12号线或公交；未核岸位不安排临时下竿。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-4"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "parent": "01",
+      "transport": "city",
+      "refined_observation": "",
+      "fish_codes": [
+        "M",
+        "A"
+      ],
+      "confidence": "可见岸形与陆侧使用来自保存影像；水下结构、正式设施名称、公众路线、当前垂钓许可与鱼是否在场未实测。",
+      "species": "鲻类、虾虎鱼可作珠江口区域候选；梅童鱼等只作泥沙底背景，未获得本点渔获证据。",
+      "transit": "12号线海上田园东、海上田园南，或国展片区站点可作接近本区的参照。最近站点、公交接驳和末班按实际入口查；尚未确认地铁出口到本点的连续步行路线。",
+      "drive": "先导航至已确认对公众开放的街区入口或正规停车场，再核对步行通路。未确认本点停车位；高速路肩、生产道路和堤顶不作为默认停车地点。",
+      "crowds": "工程道路、堆场与护岸并置；未取得游人或钓友记录。可用空间更可能受施工和物业管理影响，不能称为无人秘点。",
+      "when": "先查工程和入口现状；从合法岸上看低水位裸露堤脚，再看高水位是否形成连续浸水边缘。获准试钓后可对照转角两侧流水，而非默认涨潮一定有鱼。",
+      "next_check": "用近景和坐标向管理方核对正式地点、公众入口、允许停留范围和垂钓规定；许可明确后，记录底质、水深、流水、渔获及钓法，才决定是否安排试钓。",
+      "sources": [
+        "ba-dike",
+        "ba-transit",
+        "ba-fish",
+        "ba-water",
+        "ba-social-tianyuan"
+      ],
+      "id": "B05",
+      "label": "会展片区南部通道弯折护岸",
+      "type": "wall",
+      "status": "hold",
+      "headline": "堤脚裸露和转角可见，施工与通行现状待确认",
+      "observed": "通道弯折、硬质斜坡护岸与局部裸露泥沙可见；陆侧有工程路、堆场和施工地块。",
+      "structure": "分别查看转角迎流侧、背流侧与堤脚泥沙交界。拍摄时裸露的边缘不能证明平时可站人。",
+      "habitat": "转角与堤脚交界可作比较点，实际流向随海潮和内河来水而变；泥沙边缘支持河口鱼类假设，尚无连续硬底或礁栖鱼证据。",
+      "restrictions": "工程场地与护岸维护范围需确认。不能从画面有路推出公众可进入，不能从有出水通道推出适合垂钓。正式河名和设施归属待核。",
+      "final_walk": "陆侧道路经过生产、施工地块，公众步行入口与可用平台未知；先查许可再决定由哪个地铁站接驳。",
+      "permission_status": "通道岸段公众通行与垂钓许可未核实",
+      "social_evidence": "没有可定位的实钓证据。“海上田园”视频水面未定位，不能对应外海直线堤、通道桥或弯折护岸。鱼塘和河道同名线索不计入这些工程岸段的渔获。",
+      "type_label": "海堤与护岸",
+      "status_label": "先查边界",
+      "reference_wgs84": [
+        113.76367038285044,
+        22.688015739725433
+      ],
+      "reference_is": "500米近景中心，不是站立钓位",
+      "imagery": {
+        "context": {
+          "id": "B05",
+          "name": "baoan_shore",
+          "file": "B05_baoan_shore.jpg",
+          "center_wgs84": [
+            113.7635146,
+            22.6858598
+          ],
+          "ground_width_km": 1.6,
+          "ground_height_km": 1.6,
+          "extent": {
+            "xmin": 12663229.432745699,
+            "ymin": 2593205.559791793,
+            "xmax": 12664963.599504583,
+            "ymax": 2594939.726550677,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12663229.432745703%2C2593205.5597917936%2C12664963.599504586%2C2594939.7265506773&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618035",
+              "Shape": "Polygon",
+              "SRC_DATE": "20251105",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "11/5/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "96716.019258",
+              "Shape_Area": "287171483",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "fine": {
+          "id": "B05_fine",
+          "name": "baoan_shore",
+          "file": "B05_fine_baoan_shore.jpg",
+          "center_wgs84": [
+            113.76367038285044,
+            22.688015739725433
+          ],
+          "ground_width_km": 0.5,
+          "ground_height_km": 0.5,
+          "extent": {
+            "xmin": 12663842.889974324,
+            "ymin": 2594061.8003666564,
+            "xmax": 12664384.825611142,
+            "ymax": 2594603.736003475,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12663842.88997432%2C2594061.800366657%2C12664384.825611139%2C2594603.7360034743&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618007",
+              "Shape": "Polygon",
+              "SRC_DATE": "20241230",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "12/30/2024",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "79082.767676",
+              "Shape_Area": "41763454",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "micro": {
+          "id": "B05_micro",
+          "name": "baoan_shore",
+          "file": "B05_micro_baoan_shore.jpg",
+          "center_wgs84": [
+            113.76391379738324,
+            22.68868947453247
+          ],
+          "ground_width_km": 0.15,
+          "ground_height_km": 0.15,
+          "extent": {
+            "xmin": 12664059.663829422,
+            "ymin": 2594332.7677854383,
+            "xmax": 12664222.245319722,
+            "ymax": 2594495.349275739,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 540,
+          "height": 540,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12664059.663829422%2C2594332.7677854383%2C12664222.245319722%2C2594495.349275739&bboxSR=3857&imageSR=3857&size=540%2C540&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "reference_in_fine": [
+            0.55,
+            0.35
+          ],
+          "parent": "01",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618007",
+              "Shape": "Polygon",
+              "SRC_DATE": "20241230",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "12/30/2024",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "79082.767676",
+              "Shape_Area": "41763454",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应本帧中心；导出采样不等于源影像分辨率。"
+        }
+      },
+      "underwater_status": "水深、浸水结构、底质及实际流水未确认",
+      "area": "baoan",
+      "area_label": "宝安西海岸",
+      "region_label": "宝安河口沿岸",
+      "outing": {
+        "assessed_on": "2026-10-13",
+        "origin": "光明、宝安、龙华、南山、福田",
+        "rod": "矶竿",
+        "tags": [
+          "check"
+        ],
+        "practice": "近程踏勘线索：弯折护岸有比较价值；最后站位、泥面与工程边界尚未核实。",
+        "larger": "不列大鱼专程：没有精确匹配该参考点的较大个体渔获记录；结构或区域鱼种只能提出假设。",
+        "travel_burden": "按所选出发区域分别比较；目的地入口、站位与返程另核。",
+        "fish_size_evidence": "未找到精确匹配参考点的较大个体渔获记录",
+        "origins": {
+          "guangming": {
+            "burden": "西部接近；工业岸线入口先查",
+            "public": "6号线到松岗接11／12号线；福永河道与茅洲河口先分别确认入口、站点及步行通道。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-open13",
+              "trip-lines"
+            ]
+          },
+          "baoan": {
+            "burden": "按宝中／福永／沙井分别比较",
+            "public": "福永、沙井、松岗按同片区入口比较11／12号线或公交；宝安中心向北行程需另计末段。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-13"
+            ]
+          },
+          "longhua": {
+            "burden": "西部跨区接近；末段待核",
+            "public": "深圳北／红山沿6号线到松岗接11／12号线，或5号线到前海湾接11号线；按入口选择。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-4",
+              "trip-north",
+              "trip-lines"
+            ]
+          },
+          "nanshan": {
+            "burden": "西部跨区接近；11／12号线可比较",
+            "public": "11／12号线向福永、沙井、国展片区；区域站点可接近，不证明工业岸线公众可进入。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-11",
+              "trip-lines"
+            ]
+          },
+          "futian": {
+            "burden": "西部跨区行程；入口与站位先核",
+            "public": "11号线向福永／松岗，按目的片区接12号线或公交；未核岸位不安排临时下竿。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-4"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "parent": "01",
+      "transport": "unverified",
+      "refined_observation": "150米细看选在作业岸缘与罐体外侧；并非集装箱堆场中心。水下桩脚和靠岸深度无法确认。",
+      "fish_codes": [
+        "M",
+        "A"
+      ],
+      "confidence": "可见岸形与陆侧使用来自保存影像；水下结构、正式设施名称、公众路线、当前垂钓许可与鱼是否在场未实测。",
+      "species": "鲻类、虾虎鱼可作珠江口区域候选；梅童鱼等只作泥沙底背景，未获得本点渔获证据。",
+      "transit": "12号线海上田园东、海上田园南，或国展片区站点可作接近本区的参照。最近站点、公交接驳和末班按实际入口查；尚未确认地铁出口到本点的连续步行路线。",
+      "drive": "先导航至已确认对公众开放的街区入口或正规停车场，再核对步行通路。未确认本点停车位；高速路肩、生产道路和堤顶不作为默认停车地点。",
+      "crowds": "作业船舶、车辆和装卸活动是主要使用线索。这里没有公众钓点人气依据，钓友少或多都不改变进入作业区须有许可的条件。",
+      "when": "当前先核对是否存在设施以外的独立公众岸段；若没有，不安排试钓时机。之后的水深、潮流和船舶作业时段必须按实际开放岸段再查。",
+      "next_check": "用近景和坐标向管理方核对正式地点、公众入口、允许停留范围和垂钓规定；许可明确后，记录底质、水深、流水、渔获及钓法，才决定是否安排试钓。",
+      "sources": [
+        "ba-dike",
+        "ba-transit",
+        "ba-fish",
+        "ba-water",
+        "ba-social-fuyong"
+      ],
+      "id": "B06",
+      "label": "福海北部作业码头岸线",
+      "type": "pier",
+      "status": "defer",
+      "headline": "作业码头与堆场明确，公众岸钓行程后置",
+      "observed": "矩形作业岸线、罐体、集装箱堆场、仓房和岸边装卸设施可见；靠水边有多处船舶或设备。",
+      "structure": "码头墙脚及外侧水面有结构线索，水下桩基形状无法从俯视图确认；泊位和作业区与独立公众岸段分开判断。",
+      "habitat": "码头结构可能提供遮蔽，但岸外水深、底质、航道边界与连续浸水结构都未知。鱼可能利用结构不构成公众试钓理由。",
+      "restrictions": "作业码头有生产与物业管理条件；没有公众入口和垂钓许可依据。先后置此点，不能穿过堆场、罐区或泊位接近岸边。",
+      "final_walk": "场内道路明显服务生产。未查到能避开作业区的连续公众通路；卫星参考中心不能用作驾车进入指引。",
+      "permission_status": "作业码头公众通行与垂钓许可未核实",
+      "social_evidence": "没有可定位的实钓证据。福永海鲜市场后河道有个人渔获评论，但没有证据对应福海作业码头或长堤端头。码头、长堤的钓压、入口和鱼情继续单独核查。",
+      "type_label": "栈桥与码头",
+      "status_label": "行程后置",
+      "reference_wgs84": [
+        113.75759485168203,
+        22.682266491765425
+      ],
+      "reference_is": "500米近景中心，不是站立钓位",
+      "imagery": {
+        "context": {
+          "id": "B06",
+          "name": "baoan_shore",
+          "file": "B06_baoan_shore.jpg",
+          "center_wgs84": [
+            113.75759485168203,
+            22.682266491765425
+          ],
+          "ground_width_km": 1.6,
+          "ground_height_km": 1.6,
+          "extent": {
+            "xmin": 12662570.472106561,
+            "ymin": 2592772.0408313093,
+            "xmax": 12664304.593406968,
+            "ymax": 2594506.162131717,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662570.47210656%2C2592772.0408313093%2C12664304.593406966%2C2594506.162131717&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01"
+        },
+        "fine": {
+          "id": "B06_fine",
+          "name": "baoan_shore",
+          "file": "B06_fine_baoan_shore.jpg",
+          "center_wgs84": [
+            113.75759485168203,
+            22.682266491765425
+          ],
+          "ground_width_km": 0.5,
+          "ground_height_km": 0.5,
+          "extent": {
+            "xmin": 12663166.576303571,
+            "ymin": 2593368.1450283243,
+            "xmax": 12663708.48920995,
+            "ymax": 2593910.057934703,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12663166.576303573%2C2593368.1450283243%2C12663708.489209952%2C2593910.057934702&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618007",
+              "Shape": "Polygon",
+              "SRC_DATE": "20241230",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "12/30/2024",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "79082.767676",
+              "Shape_Area": "41763454",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "micro": {
+          "id": "B06_micro",
+          "name": "baoan_shore",
+          "file": "B06_micro_baoan_shore.jpg",
+          "center_wgs84": [
+            113.75550157450222,
+            22.682041912760447
+          ],
+          "ground_width_km": 0.15,
+          "ground_height_km": 0.15,
+          "extent": {
+            "xmin": 12663123.223404225,
+            "ymin": 2593530.719033401,
+            "xmax": 12663285.79700981,
+            "ymax": 2593693.292638988,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 540,
+          "height": 540,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12663123.223404225%2C2593530.7190334005%2C12663285.79700981%2C2593693.2926389873&bboxSR=3857&imageSR=3857&size=540%2C540&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "reference_in_fine": [
+            0.07,
+            0.55
+          ],
+          "parent": "01",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618007",
+              "Shape": "Polygon",
+              "SRC_DATE": "20241230",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "12/30/2024",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "79082.767676",
+              "Shape_Area": "41763454",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应本帧中心；导出采样不等于源影像分辨率。"
+        }
+      },
+      "underwater_status": "水深、浸水结构、底质及实际流水未确认",
+      "area": "baoan",
+      "area_label": "宝安西海岸",
+      "region_label": "宝安河口沿岸",
+      "outing": {
+        "assessed_on": "2026-10-13",
+        "origin": "光明、宝安、龙华、南山、福田",
+        "rod": "矶竿",
+        "tags": [
+          "check"
+        ],
+        "practice": "行程后置：工程或生产岸线的公众入口和可站立位置未确认。",
+        "larger": "行程后置：长堤、码头或工业栈桥外形不能证明水深或大鱼；没有该点鱼体记录。",
+        "travel_burden": "按所选出发区域分别比较；目的地入口、站位与返程另核。",
+        "fish_size_evidence": "未找到精确匹配参考点的较大个体渔获记录",
+        "origins": {
+          "guangming": {
+            "burden": "西部接近；工业岸线入口先查",
+            "public": "6号线到松岗接11／12号线；福永河道与茅洲河口先分别确认入口、站点及步行通道。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-open13",
+              "trip-lines"
+            ]
+          },
+          "baoan": {
+            "burden": "按宝中／福永／沙井分别比较",
+            "public": "福永、沙井、松岗按同片区入口比较11／12号线或公交；宝安中心向北行程需另计末段。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-13"
+            ]
+          },
+          "longhua": {
+            "burden": "西部跨区接近；末段待核",
+            "public": "深圳北／红山沿6号线到松岗接11／12号线，或5号线到前海湾接11号线；按入口选择。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-4",
+              "trip-north",
+              "trip-lines"
+            ]
+          },
+          "nanshan": {
+            "burden": "西部跨区接近；11／12号线可比较",
+            "public": "11／12号线向福永、沙井、国展片区；区域站点可接近，不证明工业岸线公众可进入。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-11",
+              "trip-lines"
+            ]
+          },
+          "futian": {
+            "burden": "西部跨区行程；入口与站位先核",
+            "public": "11号线向福永／松岗，按目的片区接12号线或公交；未核岸位不安排临时下竿。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-4"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "parent": "01",
+      "transport": "unverified",
+      "refined_observation": "端头有多边形扩宽，窄堤中央有植被或未维护痕迹；影像不能证明堤顶可以连续通行。",
+      "fish_codes": [
+        "M",
+        "A"
+      ],
+      "confidence": "可见岸形与陆侧使用来自保存影像；水下结构、正式设施名称、公众路线、当前垂钓许可与鱼是否在场未实测。",
+      "species": "鲻类、虾虎鱼可作珠江口区域候选；梅童鱼等只作泥沙底背景，未获得本点渔获证据。",
+      "transit": "12号线海上田园东、海上田园南，或国展片区站点可作接近本区的参照。最近站点、公交接驳和末班按实际入口查；尚未确认地铁出口到本点的连续步行路线。",
+      "drive": "先导航至已确认对公众开放的街区入口或正规停车场，再核对步行通路。未确认本点停车位；高速路肩、生产道路和堤顶不作为默认停车地点。",
+      "crowds": "长而窄的工程堤不具备已核实公众路线；未取得钓友记录。偏离社区、画面无人都不能证明低钓压或高鱼情。",
+      "when": "先查用途、入口和堤顶可用条件；许可明确后白天查迎风、背风两侧及端头实际流水。西向外海风浪和高水位能否影响退路需当天核对。",
+      "next_check": "用近景和坐标向管理方核对正式地点、公众入口、允许停留范围和垂钓规定；许可明确后，记录底质、水深、流水、渔获及钓法，才决定是否安排试钓。",
+      "sources": [
+        "ba-dike",
+        "ba-transit",
+        "ba-fish",
+        "ba-water",
+        "ba-social-fuyong"
+      ],
+      "id": "B07",
+      "label": "海洋新城南侧长堤端头",
+      "type": "breakwater",
+      "status": "defer",
+      "headline": "外海长堤端头单独评估，堤顶用途与进入条件待查",
+      "observed": "一条细长工程堤从陆侧延伸至外海；端头周围为水面。堤的正式用途及当前维护状况未核准。",
+      "structure": "调查堤根、长直线段和端头，重点核对护面是否持续浸水及堤侧底质；按工程长堤形态归类，未确认其正式功能为防波堤。",
+      "habitat": "端头两侧的流向差异可能比直线堤段明显，浸水硬底若存在可提供结构条件；但外海并不等于深水，尚无鱼群或礁栖鱼证据。",
+      "restrictions": "长堤可能属于防洪、导流或其他工程设施。入口、维护范围、公众进入和垂钓许可均未确认，先后置实际钓鱼行程。",
+      "final_walk": "细长堤顶能否步行、是否有门禁和足够退路未知。需先核对工程用途与管理方，不以看见连续线条作为穿行依据。",
+      "permission_status": "长堤用途、公众入口及垂钓许可未核实",
+      "social_evidence": "没有可定位的实钓证据。福永海鲜市场后河道有个人渔获评论，但没有证据对应福海作业码头或长堤端头。码头、长堤的钓压、入口和鱼情继续单独核查。",
+      "type_label": "防波堤与消波块",
+      "status_label": "行程后置",
+      "reference_wgs84": [
+        113.75295728843221,
+        22.685664448383868
+      ],
+      "reference_is": "500米近景中心，不是站立钓位",
+      "imagery": {
+        "context": {
+          "id": "B07",
+          "name": "baoan_shore",
+          "file": "B07_baoan_shore.jpg",
+          "center_wgs84": [
+            113.75295728843221,
+            22.685664448383868
+          ],
+          "ground_width_km": 1.6,
+          "ground_height_km": 1.6,
+          "extent": {
+            "xmin": 12662054.199433632,
+            "ymin": 2593181.9910708982,
+            "xmax": 12663788.363720912,
+            "ymax": 2594916.1553581785,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662054.199433632%2C2593181.9910708987%2C12663788.363720912%2C2594916.155358178&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618008",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250110",
+              "SRC_RES": "0.31",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "WV03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/10/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87101.583632",
+              "Shape_Area": "126790813",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "fine": {
+          "id": "B07_fine",
+          "name": "baoan_shore",
+          "file": "B07_fine_baoan_shore.jpg",
+          "center_wgs84": [
+            113.75295728843221,
+            22.685664448383868
+          ],
+          "ground_width_km": 0.5,
+          "ground_height_km": 0.5,
+          "extent": {
+            "xmin": 12662650.318407385,
+            "ymin": 2593778.110044651,
+            "xmax": 12663192.24474716,
+            "ymax": 2594320.0363844265,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 1800,
+          "height": 1800,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662650.318407385%2C2593778.110044651%2C12663192.24474716%2C2594320.0363844256&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "parent": "01",
+          "target_is": "岸段参考中心，不是站立钓位",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618008",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250110",
+              "SRC_RES": "0.31",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "WV03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/10/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87101.583632",
+              "Shape_Area": "126790813",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应中心；导出采样不等于源影像分辨率。"
+        },
+        "micro": {
+          "id": "B07_micro",
+          "name": "baoan_shore",
+          "file": "B07_micro_baoan_shore.jpg",
+          "center_wgs84": [
+            113.75295728843221,
+            22.686293267640316
+          ],
+          "ground_width_km": 0.15,
+          "ground_height_km": 0.15,
+          "extent": {
+            "xmin": 12662839.99225337,
+            "ymin": 2594043.653578204,
+            "xmax": 12663002.570901174,
+            "ymax": 2594206.2322260085,
+            "spatialReference": {
+              "wkid": 102100,
+              "latestWkid": 3857
+            }
+          },
+          "width": 540,
+          "height": 540,
+          "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+          "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662839.99225337%2C2594043.653578204%2C12663002.570901174%2C2594206.2322260085&bboxSR=3857&imageSR=3857&size=540%2C540&format=jpg&f=pjson",
+          "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+          "retrieved": "2026-10-10",
+          "acquisition_date": "Unknown; retrieval date is not acquisition date",
+          "reference_in_fine": [
+            0.5,
+            0.36
+          ],
+          "parent": "01",
+          "source_metadata_at_center": [
+            {
+              "OBJECTID": "2618008",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250110",
+              "SRC_RES": "0.31",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "WV03",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/10/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87101.583632",
+              "Shape_Area": "126790813",
+              "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+              "ReleaseName": "Raster Basemaps 2026.R09"
+            }
+          ],
+          "metadata_note": "元数据仅对应本帧中心；导出采样不等于源影像分辨率。"
+        }
+      },
+      "underwater_status": "水深、浸水结构、底质及实际流水未确认",
+      "area": "baoan",
+      "area_label": "宝安西海岸",
+      "region_label": "宝安河口沿岸",
+      "outing": {
+        "assessed_on": "2026-10-13",
+        "origin": "光明、宝安、龙华、南山、福田",
+        "rod": "矶竿",
+        "tags": [
+          "check"
+        ],
+        "practice": "行程后置：工程或生产岸线的公众入口和可站立位置未确认。",
+        "larger": "行程后置：长堤、码头或工业栈桥外形不能证明水深或大鱼；没有该点鱼体记录。",
+        "travel_burden": "按所选出发区域分别比较；目的地入口、站位与返程另核。",
+        "fish_size_evidence": "未找到精确匹配参考点的较大个体渔获记录",
+        "origins": {
+          "guangming": {
+            "burden": "西部接近；工业岸线入口先查",
+            "public": "6号线到松岗接11／12号线；福永河道与茅洲河口先分别确认入口、站点及步行通道。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-open13",
+              "trip-lines"
+            ]
+          },
+          "baoan": {
+            "burden": "按宝中／福永／沙井分别比较",
+            "public": "福永、沙井、松岗按同片区入口比较11／12号线或公交；宝安中心向北行程需另计末段。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-13"
+            ]
+          },
+          "longhua": {
+            "burden": "西部跨区接近；末段待核",
+            "public": "深圳北／红山沿6号线到松岗接11／12号线，或5号线到前海湾接11号线；按入口选择。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-4",
+              "trip-north",
+              "trip-lines"
+            ]
+          },
+          "nanshan": {
+            "burden": "西部跨区接近；11／12号线可比较",
+            "public": "11／12号线向福永、沙井、国展片区；区域站点可接近，不证明工业岸线公众可进入。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-13",
+              "trip-11",
+              "trip-lines"
+            ]
+          },
+          "futian": {
+            "burden": "西部跨区行程；入口与站位先核",
+            "public": "11号线向福永／松岗，按目的片区接12号线或公交；未核岸位不安排临时下竿。",
+            "drive": "核工程、生产与公共道路边界；没有连续公众入口时行程后置。",
+            "limit": "地区级路线比选；没有起始住址、最近出口、当日车程或实走钓位时间。",
+            "sources": [
+              "trip-lines",
+              "trip-11",
+              "trip-4"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "region_patch": {
+    "category": "河口湿地、海堤、闸泵设施与作业岸线交错",
+    "observed": "茅洲河口两岸、支汊、围塘、填海直线海堤、工程水道与南部作业码头可见。宽幅区域影像也包含东莞北岸，不能把对岸设施当作深圳钓点。",
+    "structure_focus": "B01湿地支汊、B02闸泵外缘、B03外海海堤、B04通道桥、B05弯折护岸、B06作业码头与B07长堤端头分别核查。",
+    "access": "12号线与20号线可接近沙井、海上田园和会展片区；地铁出口到公众入口、停车后到岸边的路线尚未实走。高速、生产路和工程堤顶不能默认通行。",
+    "limits": "七个参考点不是已批准钓位。河道劝离、2026年交界执法、湿地修复和工程管理各有范围；本点垂钓许可、水下底质、鱼情与当天海况仍需核查。"
+  },
+  "field_steps": [
+    "先以B01、B02的保存近景向河道或设施管理方确认名称、允许停留岸段及垂钓条件；答案不明确时只做合法岸上观察。",
+    "若会展片区有已确认公众通路，再看B04、B05护岸；先找到独立平台，核对行人、车辆、抛投与落水回收条件。",
+    "B03填海堤、B06作业码头和B07长堤先查入口与用途；在获得明确开放依据前不作为钓鱼目的地。",
+    "获准试钓后，优先比较实际有交换的浸水堤脚与泥沙边缘；把涨退潮、闸开闭和降雨分开记录，不只凭潮表安排鱼口。",
+    "记录同一钓法的观察时长、挂底、鱼种、尺寸和照片；确认盐度、底质与当地渔获后再针对鲷类、鲈类或岩栖鱼调整目标。"
+  ],
+  "exclusions": [
+    "茅洲河北岸的东莞公园及交椅湾岸线不列入深圳地点索引，通行和垂钓规则须另查。",
+    "海上田园内的围塘、修复区、路亚经营场地与外海是不同水面，不能用同一张门票或一则攻略替代许可。",
+    "机场主体及其周边海堤属于02分区，不把机场运行设施列为本区的普通公众通路。"
+  ],
+  "social_posts": [
+    {
+      "id": "ba-social-mouth",
+      "title": "茅洲河口探钓视频",
+      "platform": "哔哩哔哩",
+      "author": "深圳亿哥",
+      "date": "2025-11-04",
+      "url": "https://www.bilibili.com/video/BV1Pp1yBLE9v/",
+      "location": "作者标题指茅洲河出海口、深莞交界；尚未定位到哪一岸、哪一桥。",
+      "read_level": "原帖标题、作者、日期与可播放片段画面已核；未看完整视频，评论未成功加载。",
+      "fish": "可见片段未确认渔获，不从“探钓”标题推断鱼种。",
+      "conditions": "画面为河面、对岸植被和建筑；未核实潮相、饵料、时长。",
+      "access": "可见两位钓者在大块石护岸上坐钓，不能认定是B01窄堤路。",
+      "crowds": "一个画面可见两位钓者；不能推出日常人流或低钓压。",
+      "meaning": "人工块石护岸是实际岸钓场景；B01附近调查应同时寻找河岸护砌与支汊交汇，不能只找天然礁石。",
+      "limit": "地点仅到河口片区。画面可见有人钓鱼，当前公众入口和使用条件仍未确认。",
+      "checked_on": "2026-10-10",
+      "matched_targets": []
+    },
+    {
+      "id": "ba-social-shasi",
+      "title": "沙四村茅洲河钓友点评",
+      "platform": "钓鱼之家／钓鱼人",
+      "author": "钓鱼新人1102；地点简介提交者未显示",
+      "date": "日期未显示，评论标为“很久以前”",
+      "url": "https://m.diaoyu.com/diaochang/shenzhen/237711.html",
+      "location": "网页标注沙四村第三工业区旁，属于茅洲河沿河线索；不是B01河口坐标。",
+      "read_level": "直接读取地点简介与一条公开用户评论。",
+      "fish": "用户说罗非口好；地点简介列出的鲫、鲤等只是鱼种标签，未逐种证明捕获。",
+      "conditions": "用户提醒潮汐并说晚上较好；简介说风大、走水。没有日期、潮相或连续对照。",
+      "access": "简介认为台钓与微物路亚可操作；未给出可复现的公众入口。",
+      "crowds": "简介称白天钓者多；没有人数和时段记录，不宜列为冷门点。",
+      "meaning": "沿河段可把罗非作为社交实钓线索，把昼夜与潮汐作为待比较变量；这比“河口只钓海鱼”更贴近当地玩法。",
+      "limit": "未显示原始日期；“免费”是平台条目标签，不是当天通行或垂钓许可。",
+      "checked_on": "2026-10-10",
+      "matched_targets": []
+    },
+    {
+      "id": "ba-social-dongbao",
+      "title": "东宝河入口与劝离反馈",
+      "platform": "钓鱼之家／钓鱼人",
+      "author": "钓鱼子路陈陈；渔我所娱go；大橘子钓鱼",
+      "date": "日期未显示，评论均标为“很久以前”",
+      "url": "https://m.diaoyu.com/diaochang/shenzhen/217504.html",
+      "location": "网页标注沙二汇丰金工业园北侧、S86附近；不能将点名和七个影像中心直接等同。",
+      "read_level": "直接读取地点简介与公开用户评论。",
+      "fish": "没有可核对的数量、尺寸或实钓鱼种。异味说法是用户感受，未当作检测结论。",
+      "conditions": "没有可用的潮汐、饵料或咬口时段。",
+      "access": "有人说导航地点找了很久未找到；另一人说昼夜不允许钓。两者都未给具体日期和管理边界。",
+      "crowds": "没有人数数据；22条评论只说明讨论规模。",
+      "meaning": "实际入口找不到和现场被限制，是比“交通便利”标签更有用的行程线索。先核对桥名、哪一岸及步行入口，再安排携竿行程。",
+      "limit": "未定日期，与2023年视频的“没人赶”表述不能排出先后；不能选其中一条代表全河现状。",
+      "checked_on": "2026-10-10",
+      "matched_targets": []
+    },
+    {
+      "id": "ba-social-goby",
+      "title": "茅洲河“趴地虎”视频",
+      "platform": "哔哩哔哩",
+      "author": "江湖独钓客",
+      "date": "2026-07-19",
+      "url": "https://www.bilibili.com/video/BV1wUKN6qEwY/",
+      "location": "仅指茅洲河，河段未明。",
+      "read_level": "原帖标题、作者与完整发布日期已核；没有核验完整渔获过程。",
+      "fish": "作者标题以“趴地虎”为主题；是俗名线索，未确认物种、数量和体长。",
+      "conditions": "路亚、野钓标签可见；未核实具体钓组、流水和时间段。",
+      "access": "无可复现入口。",
+      "crowds": "播放量不用于钓压判断。",
+      "meaning": "2026年的个人内容仍围绕小型底栖鱼，茅洲河踏勘不应只设定大海鲈、黑鲷等目标。",
+      "limit": "标题级鱼情线索；不得写成B01或B02已捕获虾虎鱼。",
+      "checked_on": "2026-10-10",
+      "matched_targets": []
+    },
+    {
+      "id": "ba-social-shajing",
+      "title": "沙井茅洲河“没人赶”视频",
+      "platform": "哔哩哔哩",
+      "author": "深圳桥哥vlog",
+      "date": "2023-12-01",
+      "url": "https://www.bilibili.com/video/BV1rw41187Ce/",
+      "location": "沙井茅洲河，未确认具体桥、岸侧与河口距离。",
+      "read_level": "原帖标题、简介、作者与日期已核；未核验完整现场过程。",
+      "fish": "标题没有实际鱼种或渔获。",
+      "conditions": "未说明可用潮相和咬口窗口。",
+      "access": "标题及同文简介声称当时可钓、无人赶；属于作者陈述。",
+      "crowds": "未获取可用钓者人数。",
+      "meaning": "与东宝河限制反馈并列，说明网上体验随岸段和时间变化，值得实地核入口。",
+      "limit": "2023年的个人经验不能确认2026年全河开放；不能与无日期评论强行做时间趋势。",
+      "checked_on": "2026-10-10",
+      "matched_targets": []
+    },
+    {
+      "id": "ba-social-fuyong",
+      "title": "福永海鲜市场后河道实钓点评",
+      "platform": "钓鱼之家／钓鱼人",
+      "author": "排北路夜行者；路亚破龟佬；Linyyyyy",
+      "date": "确切日期未显示；页面相对日期存在缓存差异",
+      "url": "https://m.diaoyu.com/diaochang/shenzhen/219545.html",
+      "location": "平台条目名为“珠江河”，描述福永大道68号海鲜市场后侧；在B01—B07之外。",
+      "read_level": "直接读取三条公开实钓评论；平台名称尚未与正式河名核对。",
+      "fish": "一人自述约三斤海鲈脱钩、另次有趴地虎；另一人自述花身鱼；也有人下午至20时多仍空军。均为自报，鱼照未鉴定。",
+      "conditions": "有用户说某次早上有口；简介提醒潮汐。没有统一潮相，不能写成稳定早口或必上鱼。",
+      "access": "评论对比茅洲河更容易挂底；这里较适合练抛竿。未给最后入口和停车点。",
+      "crowds": "一人称自己约一点下班后去、人较少；昼夜未写清，不解读为下午冷门。",
+      "meaning": "列为下一轮地图调查的近邻线索，比较海鲈、花身鱼与小型底栖鱼；保留空军反馈，避免只采信上鱼帖。",
+      "limit": "这是福永近邻河道的经验，不是B06作业码头或B07长堤的渔获；不创建未经影像和入口核查的新推荐钓位。",
+      "checked_on": "2026-10-10",
+      "matched_targets": []
+    },
+    {
+      "id": "ba-social-ling",
+      "title": "茅洲河土鲮实钓与作者答复",
+      "platform": "钓鱼之家／钓鱼人",
+      "author": "渔人同欢乐",
+      "date": "2025-02-22",
+      "url": "https://m.diaoyu.com/showtopic-6198259-1-1.html",
+      "location": "作者回复定位南光大桥下，并提燕罗湿地公园；属上游比较样本，排除出海口归属。",
+      "read_level": "直接读取正文、作者日期及2、4、7、8、13、14楼答复。",
+      "fish": "作者自述三小时土鲮约一斤多至近三斤；没有独立称重。",
+      "conditions": "作者说白天、3.6米竿、商品鲮鱼饵混赤尾青，并建议浅滩沙底。饵料细节只适用于该次记录。",
+      "access": "桥下与公园只是定位线索，不据此确认现在可进入。",
+      "crowds": "作者说到场可见很多钓者；无持续人数统计。",
+      "meaning": "说明标题“茅洲河”覆盖上游淡水玩法。土鲮好口与沙底经验不能复制到海洋新城外海堤。",
+      "limit": "帖子内容较完整，但地理上不属于七处河口参考点；不能提升B01—B07鱼情置信度。",
+      "checked_on": "2026-10-10",
+      "matched_targets": []
+    },
+    {
+      "id": "ba-social-tianyuan",
+      "title": "海上田园钓鱼露营视频与评论",
+      "platform": "抖音",
+      "author": "冯林凯；公开评论用户",
+      "date": "2022-11-28",
+      "url": "https://www.douyin.com/video/7171030132004588808",
+      "location": "搜索索引的智能文稿称海上田园；原帖标题只写深圳，精确水面未定位。",
+      "read_level": "浏览器核对原帖标题、作者、日期和公开评论；鱼情来自搜索索引的“智能文稿”，未逐句核对视频。",
+      "fish": "智能文稿称目标罗非没钓到，仅有疑似小翘嘴；弱线索，不作为确认渔获。",
+      "conditions": "文稿称淋雨、少饵、久无口；这些因素混在一起，不能归因为整个水域资源差。",
+      "access": "标题记录钓鱼兼野炊，未核对岸线、门票或公众入口。",
+      "crowds": "多人同行与日常钓压无必然关系；评论有问地点、抱怨水体观感，未给清楚定位。",
+      "meaning": "作为“同名地点容易混淆”样本；海上田园鱼塘、附近河道与外海直线堤必须分开。",
+      "limit": "智能文稿可能误识别；不将空军、露营或鱼种映射到B03/B04/B05。",
+      "checked_on": "2026-10-10",
+      "matched_targets": []
+    }
+  ],
+  "social_summary": "公开内容提供了罗非夜口、潮汐走水、块石护岸坐钓、挂底、导航失败和空军等线索。最接近河口的是2025年探钓视频，但具体岸侧仍未定位；2026年“趴地虎”视频只到河名。七处影像参考点尚无一处获得能同时核对岸形、入口与渔获的实钓帖。",
+  "social_findings": [
+    {
+      "title": "鱼情要分河段，也要保留空军",
+      "text": "沙四评论说罗非夜口好；福永近邻河道有人自述海鲈、花身鱼，也有人从下午搜到晚间仍空军。上游土鲮实钓有较完整的饵料和定位，却不能算成河口渔获。B01—B07的黑鲷、石斑、石狗公等目标仍没有点位实钓证据。",
+      "sources": [
+        "ba-social-shasi",
+        "ba-social-fuyong",
+        "ba-social-ling"
+      ]
+    },
+    {
+      "title": "先找实际岸边与入口，再谈交通方便",
+      "text": "河口视频片段可见块石护岸上坐钓；东宝河用户反映地图点难找、昼夜限制。视频未定位到B01，评论也未核对具体桥。第一轮行程应先对照河口块石护岸、桥名、闸口和哪一岸；不要导航到水面中心或厂区门口就默认能下竿。",
+      "sources": [
+        "ba-social-mouth",
+        "ba-social-dongbao"
+      ]
+    },
+    {
+      "title": "潮汐、夜口和挂底是值得验证的变量",
+      "text": "潮汐与走水多次出现在沿河简介、点评中；罗非夜口是单条无日期经验。先在白天查入口和岸形，再在可用岸段记录实际流向、潮相、饵料、试钓时长和零渔获。没有足够记录给出宝安河口统一的最佳潮位或月份。",
+      "sources": [
+        "ba-social-shasi",
+        "ba-social-fuyong"
+      ]
+    },
+    {
+      "title": "有讨论热度，不能据此判断低钓压",
+      "text": "沙四简介和上游实钓答复都说钓者多，不能把茅洲河笼统写为冷门。河口视频只证明某次画面有两位钓者；B03—B07工程岸段缺少可定位的钓友内容，未搜到帖子不能说明鱼多、人少或未被钓过。",
+      "sources": [
+        "ba-social-shasi",
+        "ba-social-ling",
+        "ba-social-mouth"
+      ]
+    },
+    {
+      "title": "相互矛盾的进出体验都保留",
+      "text": "2023年沙井视频说“没人赶”，东宝河评论说昼夜限制。两者地点粒度不同，后者日期不明，无法排出先后。报告把它们作为到场核查线索，并保留官方管理范围用于解释现场标牌；不把任何一条个人经历扩展为全线状态。",
+      "sources": [
+        "ba-social-shajing",
+        "ba-social-dongbao"
+      ]
+    }
+  ],
+  "social_mapping": [
+    {
+      "targets": [
+        "B01",
+        "B02"
+      ],
+      "relation": "河口片区相关，未精确匹配",
+      "text": "2025年河口视频可见护岸坐钓；沙四、东宝河点评提供沿河玩法与进出问题。没有一条确认B01窄堤路或B02具体闸泵设施。",
+      "sources": [
+        "ba-social-mouth",
+        "ba-social-shasi",
+        "ba-social-dongbao"
+      ]
+    },
+    {
+      "targets": [
+        "B03",
+        "B04",
+        "B05"
+      ],
+      "relation": "没有可定位的实钓证据",
+      "text": "“海上田园”视频水面未定位，不能对应外海直线堤、通道桥或弯折护岸。鱼塘和河道同名线索不计入这些工程岸段的渔获。",
+      "sources": [
+        "ba-social-tianyuan"
+      ]
+    },
+    {
+      "targets": [
+        "B06",
+        "B07"
+      ],
+      "relation": "没有可定位的实钓证据",
+      "text": "福永海鲜市场后河道有个人渔获评论，但没有证据对应福海作业码头或长堤端头。码头、长堤的钓压、入口和鱼情继续单独核查。",
+      "sources": [
+        "ba-social-fuyong"
+      ]
+    }
+  ],
+  "social_coverage": "查阅哔哩哔哩原帖、抖音原帖公开评论、钓鱼之家／钓鱼人帖子与点评。小红书和贴吧的公开搜索未取得可读取、可定位的相关原帖，没有将搜索为空当作没有钓者。未发布评论或联系作者。视频只将实际读取的标题、简介、日期或片段画面列为已核；未观看完整视频的部分明确标出。",
+  "overview": {
+    "id": "B00",
+    "name": "baoan_overview",
+    "file": "B00_baoan_overview.jpg",
+    "center_wgs84": [
+      113.767,
+      22.713
+    ],
+    "ground_width_km": 7,
+    "ground_height_km": 9,
+    "extent": {
+      "xmin": 12660690.267570877,
+      "ymin": 2592468.1493710685,
+      "xmax": 12668278.750585826,
+      "ymax": 2602226.9385282923,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1500,
+    "height": 1929,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12660690.26757088%2C2592469.233440072%2C12668278.750585828%2C2602225.854459289&bboxSR=3857&imageSR=3857&size=1500%2C1929&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "01"
+  }
+}

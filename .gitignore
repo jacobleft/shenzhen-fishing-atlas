@@ -1,0 +1,10 @@
+work/
+node_modules/
+.pages-dist/
+__pycache__/
+.DS_Store
+.env
+.env.*
+*.log
+outputs/*
+!outputs/coastline-survey/

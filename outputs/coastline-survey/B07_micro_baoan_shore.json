@@ -1,0 +1,55 @@
+{
+  "id": "B07_micro",
+  "name": "baoan_shore",
+  "file": "B07_micro_baoan_shore.jpg",
+  "center_wgs84": [
+    113.75295728843221,
+    22.686293267640316
+  ],
+  "ground_width_km": 0.15,
+  "ground_height_km": 0.15,
+  "extent": {
+    "xmin": 12662839.99225337,
+    "ymin": 2594043.653578204,
+    "xmax": 12663002.570901174,
+    "ymax": 2594206.2322260085,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 540,
+  "height": 540,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662839.99225337%2C2594043.653578204%2C12663002.570901174%2C2594206.2322260085&bboxSR=3857&imageSR=3857&size=540%2C540&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "reference_in_fine": [
+    0.5,
+    0.36
+  ],
+  "parent": "01",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2618008",
+      "Shape": "Polygon",
+      "SRC_DATE": "20250110",
+      "SRC_RES": "0.31",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "WV03",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "1/10/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "87101.583632",
+      "Shape_Area": "126790813",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "metadata_note": "元数据仅对应本帧中心；导出采样不等于源影像分辨率。"
+}

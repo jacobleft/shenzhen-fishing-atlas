@@ -1,0 +1,53 @@
+{
+  "id": "E03",
+  "name": "east_shore",
+  "file": "E03_east_shore.jpg",
+  "center_wgs84": [
+    113.97125430982557,
+    22.52280523550628
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12686355.938226657,
+    "ymin": 2573545.050752875,
+    "xmax": 12688088.051454283,
+    "ymax": 2575277.1639805012,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12686355.938226657%2C2573545.050752874%2C12688088.051454281%2C2575277.1639805003&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "04",
+  "shore_segment": "E03",
+  "target_is": "岸段影像参考中心，不是站立钓位",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2615779",
+      "Shape": "Polygon",
+      "SRC_DATE": "20260125",
+      "SRC_RES": "0.31",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "WV03",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "1/25/2026",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "45863.452724",
+      "Shape_Area": "100662832.5",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "metadata_note": "元数据仅对应中心位置；拼接图其他部分可能不同。导出采样不能替代源影像分辨率。"
+}

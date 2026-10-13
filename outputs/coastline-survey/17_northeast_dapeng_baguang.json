@@ -1,0 +1,28 @@
+{
+  "id": "17",
+  "name": "northeast_dapeng_baguang",
+  "file": "17_northeast_dapeng_baguang.jpg",
+  "center_wgs84": [
+    114.575,
+    22.7
+  ],
+  "ground_width_km": 12,
+  "ground_height_km": 12,
+  "extent": {
+    "xmin": 12747926.861136416,
+    "ymin": 2589275.0078042275,
+    "xmax": 12760934.454142222,
+    "ymax": 2602282.6008100337,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12747926.861136418%2C2589275.007804229%2C12760934.454142224%2C2602282.600810034&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "13",
+  "name": "southeast_headlands",
+  "file": "13_southeast_headlands.jpg",
+  "center_wgs84": [
+    114.604,
+    22.508
+  ],
+  "ground_width_km": 10,
+  "ground_height_km": 10,
+  "extent": {
+    "xmin": 12752246.648798566,
+    "ymin": 2567214.7317672214,
+    "xmax": 12763071.196946084,
+    "ymax": 2578039.2799147405,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12752246.648798566%2C2567214.731767221%2C12763071.196946084%2C2578039.27991474&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

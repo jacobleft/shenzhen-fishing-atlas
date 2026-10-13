@@ -1,0 +1,506 @@
+[
+  {
+    "id": "00",
+    "name": "shenzhen_overview",
+    "file": "00_shenzhen_overview.jpg",
+    "center_wgs84": [
+      114.2,
+      22.59
+    ],
+    "ground_width_km": 112,
+    "ground_height_km": 67,
+    "extent": {
+      "xmin": 12652032.346657056,
+      "ymin": 2546219.7904185546,
+      "xmax": 12773339.350526627,
+      "ymax": 2618801.8144005146,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 2400,
+    "height": 1436,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12652032.346657056%2C2546227.0110735465%2C12773339.350526627%2C2618794.5937455213&bboxSR=3857&imageSR=3857&size=2400%2C1436&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "01",
+    "name": "baoan_estuary",
+    "file": "01_baoan_estuary.jpg",
+    "center_wgs84": [
+      113.82,
+      22.72
+    ],
+    "ground_width_km": 20,
+    "ground_height_km": 20,
+    "extent": {
+      "xmin": 12659543.19758135,
+      "ymin": 2587351.0671081776,
+      "xmax": 12681225.686599452,
+      "ymax": 2609033.556126279,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12659543.197581347%2C2587351.0671081776%2C12681225.686599448%2C2609033.556126279&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "02",
+    "name": "airport_reclaimed_coast",
+    "file": "02_airport_reclaimed_coast.jpg",
+    "center_wgs84": [
+      113.82,
+      22.61
+    ],
+    "ground_width_km": 14,
+    "ground_height_km": 14,
+    "extent": {
+      "xmin": 12662801.65263343,
+      "ymin": 2577339.587033761,
+      "xmax": 12677967.231547372,
+      "ymax": 2592505.165947703,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662801.652633427%2C2577339.5870337603%2C12677967.231547369%2C2592505.1659477022&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "03",
+    "name": "qianhai_shekou",
+    "file": "03_qianhai_shekou.jpg",
+    "center_wgs84": [
+      113.89,
+      22.51
+    ],
+    "ground_width_km": 14,
+    "ground_height_km": 14,
+    "extent": {
+      "xmin": 12670599.513136353,
+      "ymin": 2565290.7109119906,
+      "xmax": 12685754.0997555,
+      "ymax": 2580445.297531137,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12670599.513136353%2C2565290.7109119906%2C12685754.0997555%2C2580445.297531137&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "04",
+    "name": "shenzhen_bay",
+    "file": "04_shenzhen_bay.jpg",
+    "center_wgs84": [
+      113.98,
+      22.51
+    ],
+    "ground_width_km": 14,
+    "ground_height_km": 14,
+    "extent": {
+      "xmin": 12680618.267307749,
+      "ymin": 2565290.7109119906,
+      "xmax": 12695772.853926895,
+      "ymax": 2580445.297531137,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12680618.267307749%2C2565290.7109119906%2C12695772.853926895%2C2580445.297531137&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "05",
+    "name": "shatoujiao_yantian",
+    "file": "05_shatoujiao_yantian.jpg",
+    "center_wgs84": [
+      114.24,
+      22.56
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12711724.315723058,
+      "ymin": 2573479.785305464,
+      "xmax": 12722552.940724084,
+      "ymax": 2584308.4103064905,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12711724.31572306%2C2573479.785305464%2C12722552.940724084%2C2584308.4103064905&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "06",
+    "name": "meisha_coast",
+    "file": "06_meisha_coast.jpg",
+    "center_wgs84": [
+      114.31,
+      22.6
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12719515.10797632,
+      "ymin": 2578300.6610465012,
+      "xmax": 12730346.877181899,
+      "ymax": 2589132.43025208,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12719515.107976314%2C2578300.6610465003%2C12730346.877181891%2C2589132.430252079&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "07",
+    "name": "xiyong_tuyang_guanhu",
+    "file": "07_xiyong_tuyang_guanhu.jpg",
+    "center_wgs84": [
+      114.385,
+      22.625
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12727863.085417219,
+      "ymin": 2581314.4181428966,
+      "xmax": 12738696.823359981,
+      "ymax": 2592148.1560856593,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12727863.085417219%2C2581314.4181428966%2C12738696.823359981%2C2592148.1560856584&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "08",
+    "name": "shayuchong_jinshawan",
+    "file": "08_shayuchong_jinshawan.jpg",
+    "center_wgs84": [
+      114.445,
+      22.59
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12734543.632592015,
+      "ymin": 2577095.3111653575,
+      "xmax": 12745374.61508037,
+      "ymax": 2587926.293653712,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12734543.632592017%2C2577095.3111653565%2C12745374.61508037%2C2587926.293653711&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "09",
+    "name": "longqi_nanao",
+    "file": "09_longqi_nanao.jpg",
+    "center_wgs84": [
+      114.485,
+      22.54
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12738998.375687096,
+      "ymin": 2571069.8707250515,
+      "xmax": 12749825.431248747,
+      "ymax": 2581896.926286702,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12738998.3756871%2C2571069.8707250524%2C12749825.43124875%2C2581896.926286701&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "10",
+    "name": "west_dapeng",
+    "file": "10_west_dapeng.jpg",
+    "center_wgs84": [
+      114.485,
+      22.48
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12739000.724527288,
+      "ymin": 2563842.215411585,
+      "xmax": 12749823.082408562,
+      "ymax": 2574664.573292859,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12739000.724527288%2C2563842.2154115853%2C12749823.082408562%2C2574664.5732928584&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "11",
+    "name": "southern_dapeng",
+    "file": "11_southern_dapeng.jpg",
+    "center_wgs84": [
+      114.52,
+      22.445
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12742898.273181982,
+      "ymin": 2559627.526678903,
+      "xmax": 12753717.8981094,
+      "ymax": 2570447.1516063213,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12742898.27318198%2C2559627.526678903%2C12753717.898109397%2C2570447.1516063213&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "12",
+    "name": "xichong_dongchong",
+    "file": "12_xichong_dongchong.jpg",
+    "center_wgs84": [
+      114.558,
+      22.482
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12747126.969188955,
+      "ymin": 2564083.0868593,
+      "xmax": 12757949.48340271,
+      "ymax": 2574905.6010730565,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12747126.969188957%2C2564083.0868593003%2C12757949.483402712%2C2574905.601073057&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "13",
+    "name": "southeast_headlands",
+    "file": "13_southeast_headlands.jpg",
+    "center_wgs84": [
+      114.604,
+      22.508
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12752246.648798566,
+      "ymin": 2567214.7317672214,
+      "xmax": 12763071.196946084,
+      "ymax": 2578039.2799147405,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12752246.648798566%2C2567214.731767221%2C12763071.196946084%2C2578039.27991474&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "14",
+    "name": "luzui_yangmeikeng",
+    "file": "14_luzui_yangmeikeng.jpg",
+    "center_wgs84": [
+      114.588,
+      22.553
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12750463.773271928,
+      "ymin": 2572636.275554651,
+      "xmax": 12761291.848767338,
+      "ymax": 2583464.3510500616,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12750463.773271928%2C2572636.275554651%2C12761291.848767338%2C2583464.3510500616&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "15",
+    "name": "jiediaosha_dongshan",
+    "file": "15_jiediaosha_dongshan.jpg",
+    "center_wgs84": [
+      114.55,
+      22.585
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12746232.375721334,
+      "ymin": 2576492.6689766822,
+      "xmax": 12757062.965017643,
+      "ymax": 2587323.2582729915,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12746232.375721334%2C2576492.6689766822%2C12757062.965017641%2C2587323.2582729915&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "16",
+    "name": "pengcheng_nuclear_coast",
+    "file": "16_pengcheng_nuclear_coast.jpg",
+    "center_wgs84": [
+      114.548,
+      22.635
+    ],
+    "ground_width_km": 10,
+    "ground_height_km": 10,
+    "extent": {
+      "xmin": 12746007.768280068,
+      "ymin": 2582520.0740685663,
+      "xmax": 12756842.294495733,
+      "ymax": 2593354.6002842314,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12746007.768280068%2C2582520.0740685654%2C12756842.294495733%2C2593354.6002842304&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  },
+  {
+    "id": "17",
+    "name": "northeast_dapeng_baguang",
+    "file": "17_northeast_dapeng_baguang.jpg",
+    "center_wgs84": [
+      114.575,
+      22.7
+    ],
+    "ground_width_km": 12,
+    "ground_height_km": 12,
+    "extent": {
+      "xmin": 12747926.861136416,
+      "ymin": 2589275.0078042275,
+      "xmax": 12760934.454142222,
+      "ymax": 2602282.6008100337,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12747926.861136418%2C2589275.007804229%2C12760934.454142224%2C2602282.600810034&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date"
+  }
+]

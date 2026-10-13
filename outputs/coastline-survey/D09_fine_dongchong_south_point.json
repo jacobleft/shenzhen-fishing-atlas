@@ -1,0 +1,56 @@
+{
+  "id": "D09_fine",
+  "name": "dongchong_south_point",
+  "file": "D09_fine_dongchong_south_point.jpg",
+  "center_wgs84": [
+    114.5813873551753,
+    22.48698734094878
+  ],
+  "ground_width_km": 0.5,
+  "ground_height_km": 0.5,
+  "extent": {
+    "xmin": 12754871.122161634,
+    "ymin": 2569824.635464194,
+    "xmax": 12755412.267368264,
+    "ymax": 2570365.7806708245,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12754871.122161636%2C2569824.635464194%2C12755412.267368266%2C2570365.7806708235&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "D09",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2615772",
+      "Shape": "Polygon",
+      "SRC_DATE": "20250906",
+      "SRC_RES": "0.34",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "LG01",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "9/6/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "37240.775512",
+      "Shape_Area": "25466337.5",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "reference_in_parent": [
+    0.566,
+    0.528
+  ],
+  "target_is": "Image centre selected on visible shoreline; not a verified stance",
+  "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+}

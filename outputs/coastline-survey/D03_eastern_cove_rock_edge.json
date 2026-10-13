@@ -1,0 +1,35 @@
+{
+  "id": "D03",
+  "name": "eastern_cove_rock_edge",
+  "file": "D03_eastern_cove_rock_edge.jpg",
+  "center_wgs84": [
+    114.4064106472319,
+    22.609727792113716
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12734796.773941282,
+    "ymin": 2584022.94886928,
+    "xmax": 12736529.979530733,
+    "ymax": 2585756.154458731,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12734796.773941282%2C2584022.9488692805%2C12736529.979530733%2C2585756.1544587305&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "07",
+  "target_in_parent": [
+    0.72,
+    0.67
+  ],
+  "selection": "Visual inspection of saved satellite imagery",
+  "target_is": "Image-center reference; not a verified fishing stance"
+}

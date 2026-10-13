@@ -1,0 +1,28 @@
+{
+  "id": "14",
+  "name": "luzui_yangmeikeng",
+  "file": "14_luzui_yangmeikeng.jpg",
+  "center_wgs84": [
+    114.588,
+    22.553
+  ],
+  "ground_width_km": 10,
+  "ground_height_km": 10,
+  "extent": {
+    "xmin": 12750463.773271928,
+    "ymin": 2572636.275554651,
+    "xmax": 12761291.848767338,
+    "ymax": 2583464.3510500616,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12750463.773271928%2C2572636.275554651%2C12761291.848767338%2C2583464.3510500616&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

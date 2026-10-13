@@ -1,0 +1,56 @@
+{
+  "id": "D11_fine",
+  "name": "luzui_outer_headland",
+  "file": "D11_fine_luzui_outer_headland.jpg",
+  "center_wgs84": [
+    114.60504163355998,
+    22.544375735347533
+  ],
+  "ground_width_km": 0.5,
+  "ground_height_km": 0.5,
+  "extent": {
+    "xmin": 12757504.19202025,
+    "ymin": 2576740.1127853226,
+    "xmax": 12758045.56195938,
+    "ymax": 2577281.4827244524,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12757504.19202025%2C2576740.112785323%2C12758045.56195938%2C2577281.482724453&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "D11",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2615771",
+      "Shape": "Polygon",
+      "SRC_DATE": "20250724",
+      "SRC_RES": "0.34",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "LG04",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "7/24/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "28337.717931",
+      "Shape_Area": "28281211",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "reference_in_parent": [
+    0.595,
+    0.35
+  ],
+  "target_is": "Image centre selected on visible shoreline; not a verified stance",
+  "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+}

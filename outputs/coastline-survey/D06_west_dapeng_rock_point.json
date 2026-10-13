@@ -1,0 +1,35 @@
+{
+  "id": "D06",
+  "name": "west_dapeng_rock_point",
+  "file": "D06_west_dapeng_rock_point.jpg",
+  "center_wgs84": [
+    114.48013905525254,
+    22.494372298418465
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12743004.907037593,
+    "ymin": 2570119.0930769537,
+    "xmax": 12744736.664110135,
+    "ymax": 2571850.8501494955,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743004.907037593%2C2570119.093076954%2C12744736.664110135%2C2571850.850149495&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "10",
+  "target_in_parent": [
+    0.45,
+    0.34
+  ],
+  "selection": "Visual inspection of saved satellite imagery",
+  "target_is": "Image-center reference; not a verified fishing stance"
+}

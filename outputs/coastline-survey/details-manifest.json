@@ -1,0 +1,422 @@
+[
+  {
+    "id": "D01",
+    "name": "meisha_eastern_rock_edge",
+    "file": "D01_meisha_eastern_rock_edge.jpg",
+    "center_wgs84": [
+      114.3362719283449,
+      22.59550835029916
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12726989.057001831,
+      "ymin": 2582308.443926226,
+      "xmax": 12728722.083527401,
+      "ymax": 2584041.470451795,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12726989.057001831%2C2582308.443926226%2C12728722.0835274%2C2584041.470451795&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "06",
+    "target_in_parent": [
+      0.77,
+      0.55
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D02",
+    "name": "central_cove_headland",
+    "file": "D02_central_cove_headland.jpg",
+    "center_wgs84": [
+      114.36456256400594,
+      22.605235643548873
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12730138.294918228,
+      "ymin": 2583481.2902644803,
+      "xmax": 12731871.443923008,
+      "ymax": 2585214.43926926,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12730138.294918228%2C2583481.2902644807%2C12731871.443923008%2C2585214.4392692596&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "07",
+    "target_in_parent": [
+      0.29,
+      0.72
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D03",
+    "name": "eastern_cove_rock_edge",
+    "file": "D03_eastern_cove_rock_edge.jpg",
+    "center_wgs84": [
+      114.4064106472319,
+      22.609727792113716
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12734796.773941282,
+      "ymin": 2584022.94886928,
+      "xmax": 12736529.979530733,
+      "ymax": 2585756.154458731,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12734796.773941282%2C2584022.9488692805%2C12736529.979530733%2C2585756.1544587305&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "07",
+    "target_in_parent": [
+      0.72,
+      0.67
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D04",
+    "name": "northwest_pocket_bay",
+    "file": "D04_northwest_pocket_bay.jpg",
+    "center_wgs84": [
+      114.41581108866603,
+      22.606168725642615
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12735843.248711172,
+      "ymin": 2583593.798878925,
+      "xmax": 12737576.4094682,
+      "ymax": 2585326.9596359525,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12735843.248711172%2C2583593.798878926%2C12737576.4094682%2C2585326.9596359516&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "08",
+    "target_in_parent": [
+      0.2,
+      0.32
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D05",
+    "name": "nanao_southern_headland",
+    "file": "D05_nanao_southern_headland.jpg",
+    "center_wgs84": [
+      114.48402738905065,
+      22.528321407434806
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12743437.541717121,
+      "ymin": 2574209.790087677,
+      "xmax": 12745169.724107495,
+      "ymax": 2575941.9724780503,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743437.541717118%2C2574209.790087676%2C12745169.72410749%2C2575941.9724780493&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "09",
+    "target_in_parent": [
+      0.49,
+      0.63
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D06",
+    "name": "west_dapeng_rock_point",
+    "file": "D06_west_dapeng_rock_point.jpg",
+    "center_wgs84": [
+      114.48013905525254,
+      22.494372298418465
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12743004.907037593,
+      "ymin": 2570119.0930769537,
+      "xmax": 12744736.664110135,
+      "ymax": 2571850.8501494955,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743004.907037593%2C2570119.093076954%2C12744736.664110135%2C2571850.850149495&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "10",
+    "target_in_parent": [
+      0.45,
+      0.34
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D07",
+    "name": "xichong_eastern_transition",
+    "file": "D07_xichong_eastern_transition.jpg",
+    "center_wgs84": [
+      114.54730576707608,
+      22.483796618910546
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12750481.937359221,
+      "ymin": 2568844.9818773502,
+      "xmax": 12752213.56210543,
+      "ymax": 2570576.6066235583,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12750481.937359216%2C2568844.9818773502%2C12752213.562105423%2C2570576.6066235583&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "12",
+    "target_in_parent": [
+      0.39,
+      0.48
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D08",
+    "name": "interbay_outer_point",
+    "file": "D08_interbay_outer_point.jpg",
+    "center_wgs84": [
+      114.55799999999998,
+      22.4784066922357
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12751672.447627747,
+      "ymin": 2568195.664729543,
+      "xmax": 12753404.004963918,
+      "ymax": 2569927.2220657133,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12751672.447627746%2C2568195.664729543%2C12753404.004963916%2C2569927.2220657133&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "12",
+    "target_in_parent": [
+      0.5,
+      0.54
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D09",
+    "name": "dongchong_south_point",
+    "file": "D09_dongchong_south_point.jpg",
+    "center_wgs84": [
+      114.58036066884087,
+      22.487389786781147
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12754161.569716899,
+      "ymin": 2569277.8599709007,
+      "xmax": 12755893.239413103,
+      "ymax": 2571009.529667105,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12754161.569716895%2C2569277.8599709007%2C12755893.2394131%2C2571009.529667105&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "12",
+    "target_in_parent": [
+      0.73,
+      0.44
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D10",
+    "name": "southeast_remote_headland",
+    "file": "D10_southeast_remote_headland.jpg",
+    "center_wgs84": [
+      114.62053055697584,
+      22.508898312365982
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12758633.12657945,
+      "ymin": 2571869.281844503,
+      "xmax": 12760365.065535355,
+      "ymax": 2573601.2208004068,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12758633.126579452%2C2571869.281844503%2C12760365.065535355%2C2573601.2208004068&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "13",
+    "target_in_parent": [
+      0.67,
+      0.49
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D11",
+    "name": "luzui_outer_headland",
+    "file": "D11_luzui_outer_headland.jpg",
+    "center_wgs84": [
+      114.60356324114422,
+      22.542219795502735
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12756744.124725627,
+      "ymin": 2575884.7658696393,
+      "xmax": 12758476.481472163,
+      "ymax": 2577617.122616175,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12756744.12472563%2C2575884.76586964%2C12758476.481472166%2C2577617.1226161746&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "14",
+    "target_in_parent": [
+      0.66,
+      0.62
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  },
+  {
+    "id": "D12",
+    "name": "northeast_rock_cove",
+    "file": "D12_northeast_rock_cove.jpg",
+    "center_wgs84": [
+      114.57427861533846,
+      22.661048672976985
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12753483.426934073,
+      "ymin": 2590212.423246881,
+      "xmax": 12755217.279998193,
+      "ymax": 2591946.276311001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12753483.426934073%2C2590212.423246882%2C12755217.279998193%2C2591946.276311001&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "16",
+    "target_in_parent": [
+      0.77,
+      0.21
+    ],
+    "selection": "Visual inspection of saved satellite imagery",
+    "target_is": "Image-center reference; not a verified fishing stance"
+  }
+]

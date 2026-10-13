@@ -1,0 +1,56 @@
+{
+  "id": "D01_fine",
+  "name": "meisha_eastern_rock_edge",
+  "file": "D01_fine_meisha_eastern_rock_edge.jpg",
+  "center_wgs84": [
+    114.33705033045277,
+    22.594645964925487
+  ],
+  "ground_width_km": 0.5,
+  "ground_height_km": 0.5,
+  "extent": {
+    "xmin": 12727671.437892416,
+    "ymin": 2582800.1918989974,
+    "xmax": 12728213.005289376,
+    "ymax": 2583341.7592959558,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12727671.437892416%2C2582800.1918989974%2C12728213.005289374%2C2583341.7592959558&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "D01",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2617229",
+      "Shape": "Polygon",
+      "SRC_DATE": "20250402",
+      "SRC_RES": "0.34",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "LG01",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "4/2/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "89527.553789",
+      "Shape_Area": "261669996.5",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "reference_in_parent": [
+    0.55,
+    0.56
+  ],
+  "target_is": "Image centre selected on visible shoreline; not a verified stance",
+  "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+}

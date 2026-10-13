@@ -1,0 +1,28 @@
+{
+  "id": "09",
+  "name": "longqi_nanao",
+  "file": "09_longqi_nanao.jpg",
+  "center_wgs84": [
+    114.485,
+    22.54
+  ],
+  "ground_width_km": 10,
+  "ground_height_km": 10,
+  "extent": {
+    "xmin": 12738998.375687096,
+    "ymin": 2571069.8707250515,
+    "xmax": 12749825.431248747,
+    "ymax": 2581896.926286702,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12738998.3756871%2C2571069.8707250524%2C12749825.43124875%2C2581896.926286701&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

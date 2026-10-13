@@ -1,0 +1,57 @@
+{
+  "id": "E04_micro",
+  "name": "east_shore",
+  "file": "E04_micro_east_shore.jpg",
+  "center_wgs84": [
+    113.97699204965346,
+    22.520819936175794
+  ],
+  "ground_width_km": 0.15,
+  "ground_height_km": 0.15,
+  "extent": {
+    "xmin": 12687779.525475435,
+    "ymin": 2574090.6665870957,
+    "xmax": 12687941.908757392,
+    "ymax": 2574253.049869053,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 540,
+  "height": 540,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12687779.525475435%2C2574090.666587096%2C12687941.908757392%2C2574253.0498690526&bboxSR=3857&imageSR=3857&size=540%2C540&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "04",
+  "shore_segment": "E04",
+  "reference_in_fine": [
+    0.5,
+    0.6
+  ],
+  "target_is": "选择可见岸缘的150米细看中心，不是站立钓位",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2615779",
+      "Shape": "Polygon",
+      "SRC_DATE": "20260125",
+      "SRC_RES": "0.31",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "WV03",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "1/25/2026",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "45863.452724",
+      "Shape_Area": "100662832.5",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "metadata_note": "元数据对应本帧中心，与500米近景中心不同；拼接区域可能有其他日期或分辨率。"
+}

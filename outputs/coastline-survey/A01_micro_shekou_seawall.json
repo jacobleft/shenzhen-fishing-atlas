@@ -1,0 +1,76 @@
+{
+  "id": "A01_micro",
+  "name": "shekou_seawall",
+  "file": "A01_micro_shekou_seawall.jpg",
+  "center_wgs84": [
+    113.91382379437286,
+    22.47760306115105
+  ],
+  "ground_width_km": 0.15,
+  "ground_height_km": 0.15,
+  "extent": {
+    "xmin": 12680747.692825187,
+    "ymin": 2568883.461912975,
+    "xmax": 12680910.02538336,
+    "ymax": 2569045.794471149,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 450,
+  "height": 450,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12680747.69282519%2C2568883.461912975%2C12680910.025383364%2C2569045.794471149&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+  "parent": "A01",
+  "target_in_parent": [
+    0.5,
+    0.53125
+  ],
+  "selection": "人工岸线影像判读",
+  "target_is": "影像中心参考点，不是已核实的钓位",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "3196277",
+      "Shape": "Polygon",
+      "SRC_DATE": "20250322",
+      "SRC_RES": "0.34",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "LG04",
+      "MinMapLevel": "19",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "3/22/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "96097.094388",
+      "Shape_Area": "161900579.5",
+      "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+      "ReleaseName": "Raster Basemaps 2025.R07"
+    },
+    {
+      "OBJECTID": "2933542",
+      "Shape": "Polygon",
+      "SRC_DATE": "20250322",
+      "SRC_RES": "0.34",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "LG04",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "18",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "3/22/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "96097.094388",
+      "Shape_Area": "161900579.5",
+      "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+      "ReleaseName": "Raster Basemaps 2025.R07"
+    }
+  ],
+  "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+}

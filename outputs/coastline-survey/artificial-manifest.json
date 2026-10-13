@@ -1,0 +1,1308 @@
+[
+  {
+    "id": "A01",
+    "name": "shekou_seawall",
+    "file": "A01_shekou_seawall.jpg",
+    "center_wgs84": [
+      113.91382379437286,
+      22.47805221952156
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12679963.08265247,
+      "ymin": 2568152.9627684904,
+      "xmax": 12681694.635556089,
+      "ymax": 2569884.515672109,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12679963.082652468%2C2568152.962768491%2C12681694.635556087%2C2569884.5156721086&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "03",
+    "target_in_parent": [
+      0.675,
+      0.754
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位"
+  },
+  {
+    "id": "A01_fine",
+    "name": "shekou_seawall",
+    "file": "A01_fine_shekou_seawall.jpg",
+    "center_wgs84": [
+      113.91382379437286,
+      22.47760306115105
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12680558.304840656,
+      "ymin": 2568694.0739284386,
+      "xmax": 12681099.413367901,
+      "ymax": 2569235.1824556836,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12680558.304840656%2C2568694.0739284395%2C12681099.4133679%2C2569235.1824556845&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A01",
+    "target_in_parent": [
+      0.5,
+      0.53125
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "3196277",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "19",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "96097.094388",
+        "Shape_Area": "161900579.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      },
+      {
+        "OBJECTID": "2933542",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "18",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "96097.094388",
+        "Shape_Area": "161900579.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A01_micro",
+    "name": "shekou_seawall",
+    "file": "A01_micro_shekou_seawall.jpg",
+    "center_wgs84": [
+      113.91382379437286,
+      22.47760306115105
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12680747.692825187,
+      "ymin": 2568883.461912975,
+      "xmax": 12680910.02538336,
+      "ymax": 2569045.794471149,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12680747.69282519%2C2568883.461912975%2C12680910.025383364%2C2569045.794471149&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A01",
+    "target_in_parent": [
+      0.5,
+      0.53125
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "3196277",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "19",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "96097.094388",
+        "Shape_Area": "161900579.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      },
+      {
+        "OBJECTID": "2933542",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "18",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "96097.094388",
+        "Shape_Area": "161900579.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A02",
+    "name": "bay_south_pier",
+    "file": "A02_bay_south_pier.jpg",
+    "center_wgs84": [
+      113.94370615097253,
+      22.485863755725457
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12683289.522522327,
+      "ymin": 2569094.0137470174,
+      "xmax": 12685021.173126992,
+      "ymax": 2570825.6643516826,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12683289.522522323%2C2569094.0137470174%2C12685021.173126988%2C2570825.6643516826&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "04",
+    "target_in_parent": [
+      0.2334,
+      0.6919
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位"
+  },
+  {
+    "id": "A02_fine",
+    "name": "bay_south_pier",
+    "file": "A02_fine_bay_south_pier.jpg",
+    "center_wgs84": [
+      113.94370615097253,
+      22.485863755725457
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12683884.777417673,
+      "ymin": 2569689.268642371,
+      "xmax": 12684425.91823163,
+      "ymax": 2570230.409456329,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12683884.777417677%2C2569689.268642371%2C12684425.918231634%2C2570230.409456329&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A02",
+    "target_in_parent": [
+      0.5,
+      0.5
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "3196278",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "19",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "113855.014475",
+        "Shape_Area": "452526937.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      },
+      {
+        "OBJECTID": "2933543",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "18",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "113855.014475",
+        "Shape_Area": "452526937.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A02_micro",
+    "name": "bay_south_pier",
+    "file": "A02_micro_bay_south_pier.jpg",
+    "center_wgs84": [
+      113.94370615097253,
+      22.485863755725457
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12684074.17670256,
+      "ymin": 2569878.6679272554,
+      "xmax": 12684236.51894675,
+      "ymax": 2570041.0101714446,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12684074.17670256%2C2569878.6679272563%2C12684236.51894675%2C2570041.0101714437&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A02",
+    "target_in_parent": [
+      0.5,
+      0.5
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "3196278",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "19",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "113855.014475",
+        "Shape_Area": "452526937.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      },
+      {
+        "OBJECTID": "2933543",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "18",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "113855.014475",
+        "Shape_Area": "452526937.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A03",
+    "name": "bay_north_pier",
+    "file": "A03_bay_north_pier.jpg",
+    "center_wgs84": [
+      113.94732736771722,
+      22.494152810440617
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12683692.582666015,
+      "ymin": 2570092.6491448344,
+      "xmax": 12685424.336991446,
+      "ymax": 2571824.403470265,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12683692.582666012%2C2570092.6491448334%2C12685424.336991442%2C2571824.4034702643&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "04",
+    "target_in_parent": [
+      0.26,
+      0.626
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位"
+  },
+  {
+    "id": "A03_fine",
+    "name": "bay_north_pier",
+    "file": "A03_fine_bay_north_pier.jpg",
+    "center_wgs84": [
+      113.948299656079,
+      22.492198062574985
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12684396.11168323,
+      "ymin": 2570452.424928459,
+      "xmax": 12684937.277264897,
+      "ymax": 2570993.590510125,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12684396.11168323%2C2570452.4249284593%2C12684937.277264897%2C2570993.5905101243&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A03",
+    "target_in_parent": [
+      0.5625,
+      0.636
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "3196278",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "19",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "113855.014475",
+        "Shape_Area": "452526937.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      },
+      {
+        "OBJECTID": "2933543",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "18",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "113855.014475",
+        "Shape_Area": "452526937.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A03_micro",
+    "name": "bay_north_pier",
+    "file": "A03_micro_bay_north_pier.jpg",
+    "center_wgs84": [
+      113.948299656079,
+      22.492198062574985
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12684585.519636814,
+      "ymin": 2570641.8328820416,
+      "xmax": 12684747.869311314,
+      "ymax": 2570804.182556542,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12684585.519636814%2C2570641.832882042%2C12684747.869311314%2C2570804.1825565416&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A03",
+    "target_in_parent": [
+      0.5625,
+      0.636
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "3196278",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "19",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "113855.014475",
+        "Shape_Area": "452526937.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      },
+      {
+        "OBJECTID": "2933543",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250322",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "18",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "3/22/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "113855.014475",
+        "Shape_Area": "452526937.5",
+        "BlockName": "DYNAMIC_ESRI_Hong_Kong_25Q2",
+        "ReleaseName": "Raster Basemaps 2025.R07"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A04",
+    "name": "shatoujiao_jetty",
+    "file": "A04_shatoujiao_jetty.jpg",
+    "center_wgs84": [
+      114.22657602330469,
+      22.542481739727847
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12714778.09795645,
+      "ymin": 2575916.335913797,
+      "xmax": 12716510.45799041,
+      "ymax": 2577648.695947756,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12714778.09795645%2C2575916.3359137983%2C12716510.45799041%2C2577648.6959477556&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "05",
+    "target_in_parent": [
+      0.362,
+      0.695
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位"
+  },
+  {
+    "id": "A04_fine",
+    "name": "shatoujiao_jetty",
+    "file": "A04_fine_shatoujiao_jetty.jpg",
+    "center_wgs84": [
+      114.22742726771105,
+      22.54132326747624
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12715468.359083634,
+      "ymin": 2576372.2087283833,
+      "xmax": 12716009.717050947,
+      "ymax": 2576913.5666956967,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12715468.359083632%2C2576372.2087283833%2C12716009.717050945%2C2576913.5666956957&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A04",
+    "target_in_parent": [
+      0.5547,
+      0.5806
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615775",
+        "Shape": "Polygon",
+        "SRC_DATE": "20251230",
+        "SRC_RES": "0.31",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "WV03",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "12/30/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "62368.467708",
+        "Shape_Area": "112918555.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A04_micro",
+    "name": "shatoujiao_jetty",
+    "file": "A04_micro_shatoujiao_jetty.jpg",
+    "center_wgs84": [
+      114.22742726771105,
+      22.54132326747624
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12715657.83437219,
+      "ymin": 2576561.6840169416,
+      "xmax": 12715820.241762385,
+      "ymax": 2576724.0914071356,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12715657.834372193%2C2576561.6840169425%2C12715820.241762385%2C2576724.0914071365&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A04",
+    "target_in_parent": [
+      0.5547,
+      0.5806
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615775",
+        "Shape": "Polygon",
+        "SRC_DATE": "20251230",
+        "SRC_RES": "0.31",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "WV03",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "12/30/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "62368.467708",
+        "Shape_Area": "112918555.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A05",
+    "name": "tuyang_facility_pier",
+    "file": "A05_tuyang_facility_pier.jpg",
+    "center_wgs84": [
+      114.38801695483723,
+      22.610446522273644
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12732749.192942746,
+      "ymin": 2584109.6142454706,
+      "xmax": 12734482.407586902,
+      "ymax": 2585842.828889628,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12732749.192942746%2C2584109.6142454706%2C12734482.407586902%2C2585842.828889628&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "07",
+    "target_in_parent": [
+      0.531,
+      0.662
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位"
+  },
+  {
+    "id": "A05_fine",
+    "name": "tuyang_facility_pier",
+    "file": "A05_fine_tuyang_facility_pier.jpg",
+    "center_wgs84": [
+      114.38957392804274,
+      22.60934611758241
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12733518.30910718,
+      "ymin": 2584572.714032332,
+      "xmax": 12734059.934351303,
+      "ymax": 2585114.339276454,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12733518.30910718%2C2584572.7140323324%2C12734059.934351303%2C2585114.3392764535&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A05",
+    "target_in_parent": [
+      0.6,
+      0.57656
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617229",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250402",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "4/2/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "89527.553789",
+        "Shape_Area": "261669996.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A05_micro",
+    "name": "tuyang_facility_pier",
+    "file": "A05_micro_tuyang_facility_pier.jpg",
+    "center_wgs84": [
+      114.38957392804274,
+      22.60934611758241
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12733707.877942627,
+      "ymin": 2584762.2828677758,
+      "xmax": 12733870.365515864,
+      "ymax": 2584924.770441012,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12733707.877942624%2C2584762.282867775%2C12733870.36551586%2C2584924.770441011&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A05",
+    "target_in_parent": [
+      0.6,
+      0.57656
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617229",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250402",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "4/2/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "89527.553789",
+        "Shape_Area": "261669996.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A06",
+    "name": "nanao_seawall",
+    "file": "A06_nanao_seawall.jpg",
+    "center_wgs84": [
+      114.48568082766448,
+      22.53353197845223
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12743621.568986217,
+      "ymin": 2574837.7266348056,
+      "xmax": 12745353.81672748,
+      "ymax": 2576569.974376069,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743621.56898622%2C2574837.726634806%2C12745353.816727484%2C2576569.9743760685&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "09",
+    "target_in_parent": [
+      0.507,
+      0.572
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位"
+  },
+  {
+    "id": "A06_fine",
+    "name": "nanao_seawall",
+    "file": "A06_fine_nanao_seawall.jpg",
+    "center_wgs84": [
+      114.48621612765439,
+      22.533711641392188
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12744276.618117446,
+      "ymin": 2575454.839540495,
+      "xmax": 12744817.946240863,
+      "ymax": 2575996.167663912,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12744276.618117442%2C2575454.839540495%2C12744817.94624086%2C2575996.167663912&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A06",
+    "target_in_parent": [
+      0.5344,
+      0.4875
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615770",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250706",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "7/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59855.314894",
+        "Shape_Area": "125565357",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A06_micro",
+    "name": "nanao_seawall",
+    "file": "A06_micro_nanao_seawall.jpg",
+    "center_wgs84": [
+      114.48621612765439,
+      22.533711641392188
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12744466.082960637,
+      "ymin": 2575644.304383689,
+      "xmax": 12744628.481397664,
+      "ymax": 2575806.702820716,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12744466.082960637%2C2575644.304383691%2C12744628.481397664%2C2575806.702820716&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A06",
+    "target_in_parent": [
+      0.5344,
+      0.4875
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615770",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250706",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "7/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59855.314894",
+        "Shape_Area": "125565357",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A07",
+    "name": "nanao_harbour",
+    "file": "A07_nanao_harbour.jpg",
+    "center_wgs84": [
+      114.47994242306358,
+      22.54395253066378
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12742982.707332006,
+      "ymin": 2576093.5997038805,
+      "xmax": 12744715.085825423,
+      "ymax": 2577825.9781972975,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12742982.707332006%2C2576093.5997038814%2C12744715.085825423%2C2577825.9781972966&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "09",
+    "target_in_parent": [
+      0.448,
+      0.456
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位"
+  },
+  {
+    "id": "A07_fine",
+    "name": "nanao_harbour",
+    "file": "A07_fine_nanao_harbour.jpg",
+    "center_wgs84": [
+      114.47960161042839,
+      22.545210166331827
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12743540.270883642,
+      "ymin": 2576840.6854626923,
+      "xmax": 12744081.64409578,
+      "ymax": 2577382.0586748305,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743540.270883642%2C2576840.6854626928%2C12744081.644095778%2C2577382.058674831&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A07",
+    "target_in_parent": [
+      0.4781,
+      0.4125
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615770",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250706",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "7/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59855.314894",
+        "Shape_Area": "125565357",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A07_micro",
+    "name": "nanao_harbour",
+    "file": "A07_micro_nanao_harbour.jpg",
+    "center_wgs84": [
+      114.47960161042839,
+      22.545210166331827
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12743729.751507891,
+      "ymin": 2577030.166086941,
+      "xmax": 12743892.163471533,
+      "ymax": 2577192.5780505827,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743729.75150789%2C2577030.166086941%2C12743892.163471531%2C2577192.5780505827&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A07",
+    "target_in_parent": [
+      0.4781,
+      0.4125
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615770",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250706",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "7/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59855.314894",
+        "Shape_Area": "125565357",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A08",
+    "name": "dongshan_breakwater",
+    "file": "A08_dongshan_breakwater.jpg",
+    "center_wgs84": [
+      114.54601099360062,
+      22.592545641684268
+    ],
+    "ground_width_km": 1.6,
+    "ground_height_km": 1.6,
+    "extent": {
+      "xmin": 12750337.121591043,
+      "ymin": 2581951.2385084275,
+      "xmax": 12752070.11082564,
+      "ymax": 2583684.227743024,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12750337.12159104%2C2581951.238508428%2C12752070.110825637%2C2583684.2277430235&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "15",
+    "target_in_parent": [
+      0.459,
+      0.416
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位"
+  },
+  {
+    "id": "A08_fine",
+    "name": "dongshan_breakwater",
+    "file": "A08_fine_dongshan_breakwater.jpg",
+    "center_wgs84": [
+      114.54649748444957,
+      22.592545641684268
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12750986.992554018,
+      "ymin": 2582546.95355782,
+      "xmax": 12751528.55168983,
+      "ymax": 2583088.5126936315,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12750986.992554015%2C2582546.95355782%2C12751528.551689824%2C2583088.5126936315&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A08",
+    "target_in_parent": [
+      0.53125,
+      0.5
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615773",
+        "Shape": "Polygon",
+        "SRC_DATE": "20251116",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG02",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "11/16/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59530.108513",
+        "Shape_Area": "136719529",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  },
+  {
+    "id": "A08_micro",
+    "name": "dongshan_breakwater",
+    "file": "A08_micro_dongshan_breakwater.jpg",
+    "center_wgs84": [
+      114.54649748444957,
+      22.592545641684268
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12751176.538251543,
+      "ymin": 2582736.4992553527,
+      "xmax": 12751339.005992288,
+      "ymax": 2582898.966996097,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12751176.538251547%2C2582736.499255354%2C12751339.005992291%2C2582898.9669960975&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-10",
+    "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+    "parent": "A08",
+    "target_in_parent": [
+      0.53125,
+      0.5
+    ],
+    "selection": "人工岸线影像判读",
+    "target_is": "影像中心参考点，不是已核实的钓位",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615773",
+        "Shape": "Polygon",
+        "SRC_DATE": "20251116",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG02",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "11/16/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59530.108513",
+        "Shape_Area": "136719529",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+  }
+]

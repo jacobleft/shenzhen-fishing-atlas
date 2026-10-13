@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "D01_fine",
+    "name": "meisha_eastern_rock_edge",
+    "file": "D01_fine_meisha_eastern_rock_edge.jpg",
+    "center_wgs84": [
+      114.33705033045277,
+      22.594645964925487
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12727671.437892416,
+      "ymin": 2582800.1918989974,
+      "xmax": 12728213.005289376,
+      "ymax": 2583341.7592959558,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12727671.437892416%2C2582800.1918989974%2C12728213.005289374%2C2583341.7592959558&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D01",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617229",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250402",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "4/2/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "89527.553789",
+        "Shape_Area": "261669996.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.55,
+      0.56
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D01_micro",
+    "name": "meisha_eastern_rock_edge",
+    "file": "D01_micro_meisha_eastern_rock_edge.jpg",
+    "center_wgs84": [
+      114.33705033045277,
+      22.594645964925487
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12727860.986481352,
+      "ymin": 2582989.7404879327,
+      "xmax": 12728023.45670044,
+      "ymax": 2583152.2107070205,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12727860.986481352%2C2582989.7404879327%2C12728023.456700439%2C2583152.2107070205&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D01",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617229",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250402",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "4/2/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "89527.553789",
+        "Shape_Area": "261669996.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.55,
+      0.56
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D02_fine",
+    "name": "central_cove_headland",
+    "file": "D02_fine_central_cove_headland.jpg",
+    "center_wgs84": [
+      114.3656524039744,
+      22.607535311459777
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12730855.380793074,
+      "ymin": 2584354.3595497576,
+      "xmax": 12731396.998908827,
+      "ymax": 2584895.9776655105,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12730855.380793076%2C2584354.3595497576%2C12731396.998908829%2C2584895.9776655096&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D02",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617229",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250402",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "4/2/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "89527.553789",
+        "Shape_Area": "261669996.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.57,
+      0.34
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D02_micro",
+    "name": "central_cove_headland",
+    "file": "D02_micro_central_cove_headland.jpg",
+    "center_wgs84": [
+      114.3656524039744,
+      22.607535311459777
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12731044.94713359,
+      "ymin": 2584543.9258902706,
+      "xmax": 12731207.432568315,
+      "ymax": 2584706.4113249965,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12731044.94713359%2C2584543.9258902706%2C12731207.432568315%2C2584706.4113249965&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D02",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617229",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250402",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "4/2/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "89527.553789",
+        "Shape_Area": "261669996.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.57,
+      0.34
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D03_fine",
+    "name": "eastern_cove_rock_edge",
+    "file": "D03_fine_eastern_cove_rock_edge.jpg",
+    "center_wgs84": [
+      114.412638507518,
+      22.608003015957056
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12736085.848993368,
+      "ymin": 2584410.757014851,
+      "xmax": 12736627.468950205,
+      "ymax": 2584952.376971687,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12736085.848993368%2C2584410.757014852%2C12736627.468950205%2C2584952.3769716863&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D03",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617217",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250110",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "1/10/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "82750.004104",
+        "Shape_Area": "96315806",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.9,
+      0.62
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D03_micro",
+    "name": "eastern_cove_rock_edge",
+    "file": "D03_micro_eastern_cove_rock_edge.jpg",
+    "center_wgs84": [
+      114.412638507518,
+      22.608003015957056
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12736275.415978262,
+      "ymin": 2584600.323999744,
+      "xmax": 12736437.901965313,
+      "ymax": 2584762.8099867944,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12736275.415978262%2C2584600.323999744%2C12736437.90196531%2C2584762.8099867944&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D03",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617217",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250110",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "1/10/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "82750.004104",
+        "Shape_Area": "96315806",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.9,
+      0.62
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D04_fine",
+    "name": "northwest_pocket_bay",
+    "file": "D04_fine_northwest_pocket_bay.jpg",
+    "center_wgs84": [
+      114.41285293155006,
+      22.607606022590517
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12736109.719348801,
+      "ymin": 2584362.886136092,
+      "xmax": 12736651.3377429,
+      "ymax": 2584904.504530191,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12736109.719348801%2C2584362.8861360927%2C12736651.3377429%2C2584904.50453019&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D04",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617217",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250110",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "1/10/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "82750.004104",
+        "Shape_Area": "96315806",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.31,
+      0.4
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D04_micro",
+    "name": "northwest_pocket_bay",
+    "file": "D04_micro_northwest_pocket_bay.jpg",
+    "center_wgs84": [
+      114.41285293155006,
+      22.607606022590517
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12736299.285786735,
+      "ymin": 2584552.452574027,
+      "xmax": 12736461.771304965,
+      "ymax": 2584714.938092256,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12736299.285786737%2C2584552.452574027%2C12736461.771304965%2C2584714.938092256&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D04",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617217",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250110",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "1/10/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "82750.004104",
+        "Shape_Area": "96315806",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.31,
+      0.4
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D05_fine",
+    "name": "nanao_southern_headland",
+    "file": "D05_fine_nanao_southern_headland.jpg",
+    "center_wgs84": [
+      114.48184892476807,
+      22.522859542534228
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12743790.484579463,
+      "ymin": 2574147.0091763283,
+      "xmax": 12744331.770175848,
+      "ymax": 2574688.294772714,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743790.484579463%2C2574147.009176329%2C12744331.770175848%2C2574688.2947727134&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D05",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615770",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250706",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "7/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59855.314894",
+        "Shape_Area": "125565357",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.36,
+      0.88
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D05_micro",
+    "name": "nanao_southern_headland",
+    "file": "D05_micro_nanao_southern_headland.jpg",
+    "center_wgs84": [
+      114.48194617379292,
+      22.521826476095505
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12743990.76085717,
+      "ymin": 2574211.964054943,
+      "xmax": 12744153.145321986,
+      "ymax": 2574374.3485197583,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743990.760857174%2C2574211.9640549445%2C12744153.14532199%2C2574374.348519759&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D05",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615770",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250706",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "7/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59855.314894",
+        "Shape_Area": "125565357",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_fine": [
+      0.52,
+      0.73
+    ],
+    "target_is": "Shoreline image reference; not a verified fishing stance",
+    "metadata_note": "Source metadata queried at parent fine-view centre, not this shifted crop centre."
+  },
+  {
+    "id": "D06_fine",
+    "name": "west_dapeng_rock_point",
+    "file": "D06_fine_west_dapeng_rock_point.jpg",
+    "center_wgs84": [
+      114.4797501392909,
+      22.492690641987508
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12743556.907893024,
+      "ymin": 2570511.7722817026,
+      "xmax": 12744098.07540109,
+      "ymax": 2571052.9397897692,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743556.90789302%2C2570511.772281702%2C12744098.075401086%2C2571052.939789769&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D06",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615770",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250706",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "7/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59855.314894",
+        "Shape_Area": "125565357",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.475,
+      0.617
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D06_micro",
+    "name": "west_dapeng_rock_point",
+    "file": "D06_micro_west_dapeng_rock_point.jpg",
+    "center_wgs84": [
+      114.4794098419603,
+      22.493499123381305
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12743708.43432099,
+      "ymin": 2570798.5905866832,
+      "xmax": 12743870.785521999,
+      "ymax": 2570960.9417876923,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743708.434320988%2C2570798.5905866832%2C12743870.785521997%2C2570960.9417876923&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D06",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615770",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250706",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "7/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59855.314894",
+        "Shape_Area": "125565357",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_fine": [
+      0.43,
+      0.32
+    ],
+    "target_is": "Shoreline image reference; not a verified fishing stance",
+    "metadata_note": "Source metadata queried at parent fine-view centre, not this shifted crop centre."
+  },
+  {
+    "id": "D07_fine",
+    "name": "xichong_eastern_transition",
+    "file": "D07_fine_xichong_eastern_transition.jpg",
+    "center_wgs84": [
+      114.54808353956408,
+      22.482531785212473
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12751163.767075025,
+      "ymin": 2569287.8473781766,
+      "xmax": 12751704.894864244,
+      "ymax": 2569828.9751673965,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12751163.767075026%2C2569287.8473781776%2C12751704.894864244%2C2569828.9751673974&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D07",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615772",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250906",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "9/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "37240.775512",
+        "Shape_Area": "25466337.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.55,
+      0.588
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D07_micro",
+    "name": "xichong_eastern_transition",
+    "file": "D07_micro_xichong_eastern_transition.jpg",
+    "center_wgs84": [
+      114.54881269460965,
+      22.483250435574497
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12751434.330548283,
+      "ymin": 2569563.8221293264,
+      "xmax": 12751596.669727752,
+      "ymax": 2569726.1613087957,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12751434.330548285%2C2569563.8221293273%2C12751596.669727752%2C2569726.1613087966&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D07",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615772",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250906",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "9/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "37240.775512",
+        "Shape_Area": "25466337.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_fine": [
+      0.65,
+      0.34
+    ],
+    "target_is": "Shoreline image reference; not a verified fishing stance",
+    "metadata_note": "Source metadata queried at parent fine-view centre, not this shifted crop centre."
+  },
+  {
+    "id": "D08_fine",
+    "name": "interbay_outer_point",
+    "file": "D08_fine_interbay_outer_point.jpg",
+    "center_wgs84": [
+      114.55840442594928,
+      22.477932380953344
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12752312.69187953,
+      "ymin": 2568733.747098488,
+      "xmax": 12752853.801693624,
+      "ymax": 2569274.8569125813,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12752312.691879524%2C2568733.747098487%2C12752853.801693616%2C2569274.8569125803&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D08",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615773",
+        "Shape": "Polygon",
+        "SRC_DATE": "20251116",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG02",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "11/16/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59530.108513",
+        "Shape_Area": "136719529",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.526,
+      0.533
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D08_micro",
+    "name": "interbay_outer_point",
+    "file": "D08_micro_interbay_outer_point.jpg",
+    "center_wgs84": [
+      114.55840442594928,
+      22.477932380953344
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12752502.080314452,
+      "ymin": 2568923.135533418,
+      "xmax": 12752664.413258681,
+      "ymax": 2569085.4684776473,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12752502.080314456%2C2568923.1355334194%2C12752664.413258685%2C2569085.4684776478&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D08",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615773",
+        "Shape": "Polygon",
+        "SRC_DATE": "20251116",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG02",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "11/16/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "59530.108513",
+        "Shape_Area": "136719529",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.526,
+      0.533
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D09_fine",
+    "name": "dongchong_south_point",
+    "file": "D09_fine_dongchong_south_point.jpg",
+    "center_wgs84": [
+      114.5813873551753,
+      22.48698734094878
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12754871.122161634,
+      "ymin": 2569824.635464194,
+      "xmax": 12755412.267368264,
+      "ymax": 2570365.7806708245,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12754871.122161636%2C2569824.635464194%2C12755412.267368266%2C2570365.7806708235&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D09",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615772",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250906",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "9/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "37240.775512",
+        "Shape_Area": "25466337.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.566,
+      0.528
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D09_micro",
+    "name": "dongchong_south_point",
+    "file": "D09_micro_dongchong_south_point.jpg",
+    "center_wgs84": [
+      114.5813873551753,
+      22.48698734094878
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12755060.522983957,
+      "ymin": 2570014.0362865147,
+      "xmax": 12755222.866545945,
+      "ymax": 2570176.379848503,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12755060.522983957%2C2570014.0362865147%2C12755222.866545945%2C2570176.379848503&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D09",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615772",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250906",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG01",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "9/6/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "37240.775512",
+        "Shape_Area": "25466337.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.566,
+      0.528
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D10_fine",
+    "name": "southeast_remote_headland",
+    "file": "D10_fine_southeast_remote_headland.jpg",
+    "center_wgs84": [
+      114.61777674276945,
+      22.508208404506533
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12758921.928750642,
+      "ymin": 2572381.5041410015,
+      "xmax": 12759463.15697378,
+      "ymax": 2572922.732364139,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 900,
+    "height": 900,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12758921.928750642%2C2572381.504141002%2C12759463.15697378%2C2572922.7323641386&bboxSR=3857&imageSR=3857&size=900%2C900&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D10",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2614813",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250415",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "5",
+        "SAMP_RES": "0.6",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "18",
+        "NICE_NAME": "Vivid",
+        "DrawOrder": "80",
+        "SRC_DATE2": "4/15/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "70300.373781",
+        "Shape_Area": "152311880.5",
+        "BlockName": "Vivid_Standard_CN35_25Q4",
+        "ReleaseName": "Raster Basemaps 2026.R05"
+      }
+    ],
+    "reference_in_parent": [
+      0.323,
+      0.548
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D10_micro",
+    "name": "southeast_remote_headland",
+    "file": "D10_micro_southeast_remote_headland.jpg",
+    "center_wgs84": [
+      114.6170474523919,
+      22.50802874133297
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12759030.17450076,
+      "ymin": 2572549.284995662,
+      "xmax": 12759192.542756723,
+      "ymax": 2572711.6532516256,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 225,
+    "height": 225,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12759030.174500762%2C2572549.284995662%2C12759192.542756723%2C2572711.6532516256&bboxSR=3857&imageSR=3857&size=225%2C225&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D10",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2614813",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250415",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "5",
+        "SAMP_RES": "0.6",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "18",
+        "NICE_NAME": "Vivid",
+        "DrawOrder": "80",
+        "SRC_DATE2": "4/15/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "70300.373781",
+        "Shape_Area": "152311880.5",
+        "BlockName": "Vivid_Standard_CN35_25Q4",
+        "ReleaseName": "Raster Basemaps 2026.R05"
+      }
+    ],
+    "reference_in_fine": [
+      0.35,
+      0.54
+    ],
+    "target_is": "Shoreline image reference; not a verified fishing stance",
+    "metadata_note": "Source metadata queried at parent fine-view centre, not this shifted crop centre."
+  },
+  {
+    "id": "D11_fine",
+    "name": "luzui_outer_headland",
+    "file": "D11_fine_luzui_outer_headland.jpg",
+    "center_wgs84": [
+      114.60504163355998,
+      22.544375735347533
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12757504.19202025,
+      "ymin": 2576740.1127853226,
+      "xmax": 12758045.56195938,
+      "ymax": 2577281.4827244524,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12757504.19202025%2C2576740.112785323%2C12758045.56195938%2C2577281.482724453&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D11",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615771",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250724",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "7/24/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "28337.717931",
+        "Shape_Area": "28281211",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.595,
+      0.35
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D11_micro",
+    "name": "luzui_outer_headland",
+    "file": "D11_micro_luzui_outer_headland.jpg",
+    "center_wgs84": [
+      114.60504163355998,
+      22.544375735347533
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12757693.671498945,
+      "ymin": 2576929.5922640185,
+      "xmax": 12757856.082480684,
+      "ymax": 2577092.0032457574,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12757693.671498947%2C2576929.5922640185%2C12757856.082480684%2C2577092.0032457574&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D11",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2615771",
+        "Shape": "Polygon",
+        "SRC_DATE": "20250724",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG04",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "7/24/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "28337.717931",
+        "Shape_Area": "28281211",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.595,
+      0.35
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D12_fine",
+    "name": "northeast_rock_cove",
+    "file": "D12_fine_northeast_rock_cove.jpg",
+    "center_wgs84": [
+      114.57501066229119,
+      22.660689346392903
+    ],
+    "ground_width_km": 0.5,
+    "ground_height_km": 0.5,
+    "extent": {
+      "xmin": 12754160.93072823,
+      "ymin": 2590765.0896204207,
+      "xmax": 12754702.758392062,
+      "ymax": 2591306.917284253,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 1800,
+    "height": 1800,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12754160.93072823%2C2590765.089620421%2C12754702.758392062%2C2591306.9172842535&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D12",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617257",
+        "Shape": "Polygon",
+        "SRC_DATE": "20251116",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG02",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "11/16/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "97238.104517",
+        "Shape_Area": "319868514.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.547,
+      0.525
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  },
+  {
+    "id": "D12_micro",
+    "name": "northeast_rock_cove",
+    "file": "D12_micro_northeast_rock_cove.jpg",
+    "center_wgs84": [
+      114.57501066229119,
+      22.660689346392903
+    ],
+    "ground_width_km": 0.15,
+    "ground_height_km": 0.15,
+    "extent": {
+      "xmin": 12754350.570410572,
+      "ymin": 2590954.7293027625,
+      "xmax": 12754513.11870972,
+      "ymax": 2591117.277601912,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    },
+    "width": 450,
+    "height": 450,
+    "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+    "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12754350.570410572%2C2590954.7293027625%2C12754513.11870972%2C2591117.277601912&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+    "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+    "retrieved": "2026-10-09",
+    "acquisition_date": "Unknown; retrieval date is not acquisition date",
+    "parent": "D12",
+    "source_metadata_at_center": [
+      {
+        "OBJECTID": "2617257",
+        "Shape": "Polygon",
+        "SRC_DATE": "20251116",
+        "SRC_RES": "0.34",
+        "SRC_ACC": "8.47",
+        "SAMP_RES": "0.3",
+        "SRC_DESC": "LG02",
+        "MinMapLevel": "12",
+        "MaxMapLevel": "19",
+        "NICE_NAME": "Vivid Advanced",
+        "DrawOrder": "80",
+        "SRC_DATE2": "11/16/2025",
+        "NICE_DESC": "Vantor",
+        "Shape_Length": "97238.104517",
+        "Shape_Area": "319868514.5",
+        "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+        "ReleaseName": "Raster Basemaps 2026.R09"
+      }
+    ],
+    "reference_in_parent": [
+      0.547,
+      0.525
+    ],
+    "target_is": "Image centre selected on visible shoreline; not a verified stance",
+    "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+  }
+]

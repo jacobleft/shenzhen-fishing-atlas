@@ -1,0 +1,28 @@
+{
+  "id": "08",
+  "name": "shayuchong_jinshawan",
+  "file": "08_shayuchong_jinshawan.jpg",
+  "center_wgs84": [
+    114.445,
+    22.59
+  ],
+  "ground_width_km": 10,
+  "ground_height_km": 10,
+  "extent": {
+    "xmin": 12734543.632592015,
+    "ymin": 2577095.3111653575,
+    "xmax": 12745374.61508037,
+    "ymax": 2587926.293653712,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12734543.632592017%2C2577095.3111653565%2C12745374.61508037%2C2587926.293653711&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

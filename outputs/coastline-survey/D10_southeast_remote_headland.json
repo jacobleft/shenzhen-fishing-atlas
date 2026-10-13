@@ -1,0 +1,35 @@
+{
+  "id": "D10",
+  "name": "southeast_remote_headland",
+  "file": "D10_southeast_remote_headland.jpg",
+  "center_wgs84": [
+    114.62053055697584,
+    22.508898312365982
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12758633.12657945,
+    "ymin": 2571869.281844503,
+    "xmax": 12760365.065535355,
+    "ymax": 2573601.2208004068,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12758633.126579452%2C2571869.281844503%2C12760365.065535355%2C2573601.2208004068&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "13",
+  "target_in_parent": [
+    0.67,
+    0.49
+  ],
+  "selection": "Visual inspection of saved satellite imagery",
+  "target_is": "Image-center reference; not a verified fishing stance"
+}

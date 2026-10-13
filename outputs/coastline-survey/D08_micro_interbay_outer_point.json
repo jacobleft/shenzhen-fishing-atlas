@@ -1,0 +1,56 @@
+{
+  "id": "D08_micro",
+  "name": "interbay_outer_point",
+  "file": "D08_micro_interbay_outer_point.jpg",
+  "center_wgs84": [
+    114.55840442594928,
+    22.477932380953344
+  ],
+  "ground_width_km": 0.15,
+  "ground_height_km": 0.15,
+  "extent": {
+    "xmin": 12752502.080314452,
+    "ymin": 2568923.135533418,
+    "xmax": 12752664.413258681,
+    "ymax": 2569085.4684776473,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 450,
+  "height": 450,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12752502.080314456%2C2568923.1355334194%2C12752664.413258685%2C2569085.4684776478&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "D08",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2615773",
+      "Shape": "Polygon",
+      "SRC_DATE": "20251116",
+      "SRC_RES": "0.34",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "LG02",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "11/16/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "59530.108513",
+      "Shape_Area": "136719529",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "reference_in_parent": [
+    0.526,
+    0.533
+  ],
+  "target_is": "Image centre selected on visible shoreline; not a verified stance",
+  "metadata_note": "Source metadata applies to focal coordinate; scene date/resolution can differ elsewhere in a mosaic."
+}

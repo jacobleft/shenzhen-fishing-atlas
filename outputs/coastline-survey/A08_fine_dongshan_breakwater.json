@@ -1,0 +1,57 @@
+{
+  "id": "A08_fine",
+  "name": "dongshan_breakwater",
+  "file": "A08_fine_dongshan_breakwater.jpg",
+  "center_wgs84": [
+    114.54649748444957,
+    22.592545641684268
+  ],
+  "ground_width_km": 0.5,
+  "ground_height_km": 0.5,
+  "extent": {
+    "xmin": 12750986.992554018,
+    "ymin": 2582546.95355782,
+    "xmax": 12751528.55168983,
+    "ymax": 2583088.5126936315,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12750986.992554015%2C2582546.95355782%2C12751528.551689824%2C2583088.5126936315&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+  "parent": "A08",
+  "target_in_parent": [
+    0.53125,
+    0.5
+  ],
+  "selection": "人工岸线影像判读",
+  "target_is": "影像中心参考点，不是已核实的钓位",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2615773",
+      "Shape": "Polygon",
+      "SRC_DATE": "20251116",
+      "SRC_RES": "0.34",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "LG02",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "11/16/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "59530.108513",
+      "Shape_Area": "136719529",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+}

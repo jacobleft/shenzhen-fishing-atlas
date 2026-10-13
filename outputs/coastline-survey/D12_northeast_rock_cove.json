@@ -1,0 +1,35 @@
+{
+  "id": "D12",
+  "name": "northeast_rock_cove",
+  "file": "D12_northeast_rock_cove.jpg",
+  "center_wgs84": [
+    114.57427861533846,
+    22.661048672976985
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12753483.426934073,
+    "ymin": 2590212.423246881,
+    "xmax": 12755217.279998193,
+    "ymax": 2591946.276311001,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12753483.426934073%2C2590212.423246882%2C12755217.279998193%2C2591946.276311001&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "16",
+  "target_in_parent": [
+    0.77,
+    0.21
+  ],
+  "selection": "Visual inspection of saved satellite imagery",
+  "target_is": "Image-center reference; not a verified fishing stance"
+}

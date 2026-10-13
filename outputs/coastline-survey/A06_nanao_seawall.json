@@ -1,0 +1,35 @@
+{
+  "id": "A06",
+  "name": "nanao_seawall",
+  "file": "A06_nanao_seawall.jpg",
+  "center_wgs84": [
+    114.48568082766448,
+    22.53353197845223
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12743621.568986217,
+    "ymin": 2574837.7266348056,
+    "xmax": 12745353.81672748,
+    "ymax": 2576569.974376069,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12743621.56898622%2C2574837.726634806%2C12745353.816727484%2C2576569.9743760685&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+  "parent": "09",
+  "target_in_parent": [
+    0.507,
+    0.572
+  ],
+  "selection": "人工岸线影像判读",
+  "target_is": "影像中心参考点，不是已核实的钓位"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "12",
+  "name": "xichong_dongchong",
+  "file": "12_xichong_dongchong.jpg",
+  "center_wgs84": [
+    114.558,
+    22.482
+  ],
+  "ground_width_km": 10,
+  "ground_height_km": 10,
+  "extent": {
+    "xmin": 12747126.969188955,
+    "ymin": 2564083.0868593,
+    "xmax": 12757949.48340271,
+    "ymax": 2574905.6010730565,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12747126.969188957%2C2564083.0868593003%2C12757949.483402712%2C2574905.601073057&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "00",
+  "name": "shenzhen_overview",
+  "file": "00_shenzhen_overview.jpg",
+  "center_wgs84": [
+    114.2,
+    22.59
+  ],
+  "ground_width_km": 112,
+  "ground_height_km": 67,
+  "extent": {
+    "xmin": 12652032.346657056,
+    "ymin": 2546219.7904185546,
+    "xmax": 12773339.350526627,
+    "ymax": 2618801.8144005146,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 2400,
+  "height": 1436,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12652032.346657056%2C2546227.0110735465%2C12773339.350526627%2C2618794.5937455213&bboxSR=3857&imageSR=3857&size=2400%2C1436&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "B06",
+  "name": "baoan_shore",
+  "file": "B06_baoan_shore.jpg",
+  "center_wgs84": [
+    113.75759485168203,
+    22.682266491765425
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12662570.472106561,
+    "ymin": 2592772.0408313093,
+    "xmax": 12664304.593406968,
+    "ymax": 2594506.162131717,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12662570.47210656%2C2592772.0408313093%2C12664304.593406966%2C2594506.162131717&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "01"
+}

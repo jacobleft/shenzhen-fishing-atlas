@@ -1,0 +1,28 @@
+{
+  "id": "15",
+  "name": "jiediaosha_dongshan",
+  "file": "15_jiediaosha_dongshan.jpg",
+  "center_wgs84": [
+    114.55,
+    22.585
+  ],
+  "ground_width_km": 10,
+  "ground_height_km": 10,
+  "extent": {
+    "xmin": 12746232.375721334,
+    "ymin": 2576492.6689766822,
+    "xmax": 12757062.965017643,
+    "ymax": 2587323.2582729915,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12746232.375721334%2C2576492.6689766822%2C12757062.965017641%2C2587323.2582729915&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

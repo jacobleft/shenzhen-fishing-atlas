@@ -1,0 +1,28 @@
+{
+  "id": "01",
+  "name": "baoan_estuary",
+  "file": "01_baoan_estuary.jpg",
+  "center_wgs84": [
+    113.82,
+    22.72
+  ],
+  "ground_width_km": 20,
+  "ground_height_km": 20,
+  "extent": {
+    "xmin": 12659543.19758135,
+    "ymin": 2587351.0671081776,
+    "xmax": 12681225.686599452,
+    "ymax": 2609033.556126279,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12659543.197581347%2C2587351.0671081776%2C12681225.686599448%2C2609033.556126279&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

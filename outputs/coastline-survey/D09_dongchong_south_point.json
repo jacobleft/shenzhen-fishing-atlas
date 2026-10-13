@@ -1,0 +1,35 @@
+{
+  "id": "D09",
+  "name": "dongchong_south_point",
+  "file": "D09_dongchong_south_point.jpg",
+  "center_wgs84": [
+    114.58036066884087,
+    22.487389786781147
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12754161.569716899,
+    "ymin": 2569277.8599709007,
+    "xmax": 12755893.239413103,
+    "ymax": 2571009.529667105,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12754161.569716895%2C2569277.8599709007%2C12755893.2394131%2C2571009.529667105&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "12",
+  "target_in_parent": [
+    0.73,
+    0.44
+  ],
+  "selection": "Visual inspection of saved satellite imagery",
+  "target_is": "Image-center reference; not a verified fishing stance"
+}

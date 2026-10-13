@@ -1,0 +1,28 @@
+{
+  "id": "03",
+  "name": "qianhai_shekou",
+  "file": "03_qianhai_shekou.jpg",
+  "center_wgs84": [
+    113.89,
+    22.51
+  ],
+  "ground_width_km": 14,
+  "ground_height_km": 14,
+  "extent": {
+    "xmin": 12670599.513136353,
+    "ymin": 2565290.7109119906,
+    "xmax": 12685754.0997555,
+    "ymax": 2580445.297531137,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12670599.513136353%2C2565290.7109119906%2C12685754.0997555%2C2580445.297531137&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

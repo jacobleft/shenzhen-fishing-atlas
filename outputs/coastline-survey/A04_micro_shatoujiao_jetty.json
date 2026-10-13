@@ -1,0 +1,57 @@
+{
+  "id": "A04_micro",
+  "name": "shatoujiao_jetty",
+  "file": "A04_micro_shatoujiao_jetty.jpg",
+  "center_wgs84": [
+    114.22742726771105,
+    22.54132326747624
+  ],
+  "ground_width_km": 0.15,
+  "ground_height_km": 0.15,
+  "extent": {
+    "xmin": 12715657.83437219,
+    "ymin": 2576561.6840169416,
+    "xmax": 12715820.241762385,
+    "ymax": 2576724.0914071356,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 450,
+  "height": 450,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12715657.834372193%2C2576561.6840169425%2C12715820.241762385%2C2576724.0914071365&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+  "parent": "A04",
+  "target_in_parent": [
+    0.5547,
+    0.5806
+  ],
+  "selection": "人工岸线影像判读",
+  "target_is": "影像中心参考点，不是已核实的钓位",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2615775",
+      "Shape": "Polygon",
+      "SRC_DATE": "20251230",
+      "SRC_RES": "0.31",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "WV03",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "12/30/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "62368.467708",
+      "Shape_Area": "112918555.5",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+}

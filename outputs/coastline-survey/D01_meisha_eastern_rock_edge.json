@@ -1,0 +1,35 @@
+{
+  "id": "D01",
+  "name": "meisha_eastern_rock_edge",
+  "file": "D01_meisha_eastern_rock_edge.jpg",
+  "center_wgs84": [
+    114.3362719283449,
+    22.59550835029916
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12726989.057001831,
+    "ymin": 2582308.443926226,
+    "xmax": 12728722.083527401,
+    "ymax": 2584041.470451795,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12726989.057001831%2C2582308.443926226%2C12728722.0835274%2C2584041.470451795&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "06",
+  "target_in_parent": [
+    0.77,
+    0.55
+  ],
+  "selection": "Visual inspection of saved satellite imagery",
+  "target_is": "Image-center reference; not a verified fishing stance"
+}

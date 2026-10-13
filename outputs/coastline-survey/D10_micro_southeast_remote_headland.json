@@ -1,0 +1,56 @@
+{
+  "id": "D10_micro",
+  "name": "southeast_remote_headland",
+  "file": "D10_micro_southeast_remote_headland.jpg",
+  "center_wgs84": [
+    114.6170474523919,
+    22.50802874133297
+  ],
+  "ground_width_km": 0.15,
+  "ground_height_km": 0.15,
+  "extent": {
+    "xmin": 12759030.17450076,
+    "ymin": 2572549.284995662,
+    "xmax": 12759192.542756723,
+    "ymax": 2572711.6532516256,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 225,
+  "height": 225,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12759030.174500762%2C2572549.284995662%2C12759192.542756723%2C2572711.6532516256&bboxSR=3857&imageSR=3857&size=225%2C225&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "D10",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2614813",
+      "Shape": "Polygon",
+      "SRC_DATE": "20250415",
+      "SRC_RES": "0.34",
+      "SRC_ACC": "5",
+      "SAMP_RES": "0.6",
+      "SRC_DESC": "LG04",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "18",
+      "NICE_NAME": "Vivid",
+      "DrawOrder": "80",
+      "SRC_DATE2": "4/15/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "70300.373781",
+      "Shape_Area": "152311880.5",
+      "BlockName": "Vivid_Standard_CN35_25Q4",
+      "ReleaseName": "Raster Basemaps 2026.R05"
+    }
+  ],
+  "reference_in_fine": [
+    0.35,
+    0.54
+  ],
+  "target_is": "Shoreline image reference; not a verified fishing stance",
+  "metadata_note": "Source metadata queried at parent fine-view centre, not this shifted crop centre."
+}

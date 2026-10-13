@@ -1,0 +1,28 @@
+{
+  "id": "11",
+  "name": "southern_dapeng",
+  "file": "11_southern_dapeng.jpg",
+  "center_wgs84": [
+    114.52,
+    22.445
+  ],
+  "ground_width_km": 10,
+  "ground_height_km": 10,
+  "extent": {
+    "xmin": 12742898.273181982,
+    "ymin": 2559627.526678903,
+    "xmax": 12753717.8981094,
+    "ymax": 2570447.1516063213,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12742898.27318198%2C2559627.526678903%2C12753717.898109397%2C2570447.1516063213&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "A08",
+  "name": "dongshan_breakwater",
+  "file": "A08_dongshan_breakwater.jpg",
+  "center_wgs84": [
+    114.54601099360062,
+    22.592545641684268
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12750337.121591043,
+    "ymin": 2581951.2385084275,
+    "xmax": 12752070.11082564,
+    "ymax": 2583684.227743024,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12750337.12159104%2C2581951.238508428%2C12752070.110825637%2C2583684.2277430235&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+  "parent": "15",
+  "target_in_parent": [
+    0.459,
+    0.416
+  ],
+  "selection": "人工岸线影像判读",
+  "target_is": "影像中心参考点，不是已核实的钓位"
+}

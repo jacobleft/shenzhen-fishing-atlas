@@ -1,0 +1,35 @@
+{
+  "id": "D02",
+  "name": "central_cove_headland",
+  "file": "D02_central_cove_headland.jpg",
+  "center_wgs84": [
+    114.36456256400594,
+    22.605235643548873
+  ],
+  "ground_width_km": 1.6,
+  "ground_height_km": 1.6,
+  "extent": {
+    "xmin": 12730138.294918228,
+    "ymin": 2583481.2902644803,
+    "xmax": 12731871.443923008,
+    "ymax": 2585214.43926926,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 1800,
+  "height": 1800,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12730138.294918228%2C2583481.2902644807%2C12731871.443923008%2C2585214.4392692596&bboxSR=3857&imageSR=3857&size=1800%2C1800&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "07",
+  "target_in_parent": [
+    0.29,
+    0.72
+  ],
+  "selection": "Visual inspection of saved satellite imagery",
+  "target_is": "Image-center reference; not a verified fishing stance"
+}

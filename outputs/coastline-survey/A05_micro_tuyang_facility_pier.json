@@ -1,0 +1,57 @@
+{
+  "id": "A05_micro",
+  "name": "tuyang_facility_pier",
+  "file": "A05_micro_tuyang_facility_pier.jpg",
+  "center_wgs84": [
+    114.38957392804274,
+    22.60934611758241
+  ],
+  "ground_width_km": 0.15,
+  "ground_height_km": 0.15,
+  "extent": {
+    "xmin": 12733707.877942627,
+    "ymin": 2584762.2828677758,
+    "xmax": 12733870.365515864,
+    "ymax": 2584924.770441012,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 450,
+  "height": 450,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12733707.877942624%2C2584762.282867775%2C12733870.36551586%2C2584924.770441011&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-10",
+  "acquisition_date": "获取日期不是拍摄日期；近景中心拍摄日期见source_metadata_at_center，背景图未确认。",
+  "parent": "A05",
+  "target_in_parent": [
+    0.6,
+    0.57656
+  ],
+  "selection": "人工岸线影像判读",
+  "target_is": "影像中心参考点，不是已核实的钓位",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2617229",
+      "Shape": "Polygon",
+      "SRC_DATE": "20250402",
+      "SRC_RES": "0.34",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "LG01",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "4/2/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "89527.553789",
+      "Shape_Area": "261669996.5",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "metadata_note": "元数据只对应500米近景中心，拼接图其他部分可能不同；150米裁切与近景使用同一参考中心。"
+}

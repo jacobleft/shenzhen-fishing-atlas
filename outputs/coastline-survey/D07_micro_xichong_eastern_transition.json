@@ -1,0 +1,56 @@
+{
+  "id": "D07_micro",
+  "name": "xichong_eastern_transition",
+  "file": "D07_micro_xichong_eastern_transition.jpg",
+  "center_wgs84": [
+    114.54881269460965,
+    22.483250435574497
+  ],
+  "ground_width_km": 0.15,
+  "ground_height_km": 0.15,
+  "extent": {
+    "xmin": 12751434.330548283,
+    "ymin": 2569563.8221293264,
+    "xmax": 12751596.669727752,
+    "ymax": 2569726.1613087957,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+    }
+  },
+  "width": 450,
+  "height": 450,
+  "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "export_url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=12751434.330548285%2C2569563.8221293273%2C12751596.669727752%2C2569726.1613087966&bboxSR=3857&imageSR=3857&size=450%2C450&format=jpg&f=pjson",
+  "attribution": "Source: Esri, Vantor, Earthstar Geographics, GIS User Community",
+  "retrieved": "2026-10-09",
+  "acquisition_date": "Unknown; retrieval date is not acquisition date",
+  "parent": "D07",
+  "source_metadata_at_center": [
+    {
+      "OBJECTID": "2615772",
+      "Shape": "Polygon",
+      "SRC_DATE": "20250906",
+      "SRC_RES": "0.34",
+      "SRC_ACC": "8.47",
+      "SAMP_RES": "0.3",
+      "SRC_DESC": "LG01",
+      "MinMapLevel": "12",
+      "MaxMapLevel": "19",
+      "NICE_NAME": "Vivid Advanced",
+      "DrawOrder": "80",
+      "SRC_DATE2": "9/6/2025",
+      "NICE_DESC": "Vantor",
+      "Shape_Length": "37240.775512",
+      "Shape_Area": "25466337.5",
+      "BlockName": "DYNAMIC_ESRI_Shenzhen_CN_26Q2",
+      "ReleaseName": "Raster Basemaps 2026.R09"
+    }
+  ],
+  "reference_in_fine": [
+    0.65,
+    0.34
+  ],
+  "target_is": "Shoreline image reference; not a verified fishing stance",
+  "metadata_note": "Source metadata queried at parent fine-view centre, not this shifted crop centre."
+}
